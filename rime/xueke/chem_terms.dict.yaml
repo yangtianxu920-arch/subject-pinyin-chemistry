@@ -1,0 +1,2496 @@
+# 学科输入法 · 化学术语
+# 本文件由 tools/build.py 自动生成，请修改 data/ 下的源表后重新生成。
+---
+name: chem_terms
+version: "2026-11-14"
+sort: by_weight
+...
+碱度	jian du	3054429
+系统	xi tong	777566
+极化	ji hua	720646
+环境	huan jing	501634
+体系	ti xi	500781
+电子	dian zi	500722
+检验	jian yan	500427
+金属	jin shu	500349
+鉴定	jian ding	500313
+玻璃	bo li	500305
+转移	zhuan yi	500291
+原料	yuan liao	500284
+元素	yuan su	500272
+酮式	tong shi	453009
+乙基	yi ji	452987
+碘化	dian hua	452498
+乙腈	yi jing	452479
+油浴	you yu	452248
+软碱	ruan jian	452060
+硝石	xiao shi	451561
+电极	dian ji	451045
+苄基	bian ji	450948
+试剂	shi ji	450824
+己基	ji ji	450748
+链节	lian jie	450697
+锍盐	liu yan	450694
+肌酸	ji suan	450664
+配制	pei zhi	450596
+试纸	shi zhi	450568
+酮基	tong ji	450557
+消解	xiao jie	450399
+汞齐	gong ji	450396
+石英	shi ying	450352
+杂质	za zhi	450349
+易燃	yi ran	450342
+氢解	qing jie	450276
+油脂	you zhi	450262
+研杵	yan chu	450257
+微扰	wei rao	450251
+内酯	nei zhi	450244
+中子	zhong zi	450231
+实验式	shi yan shi	450230
+电离	dian li	450225
+塑料	su liao	434160
+异面	yi mian	425542
+分离	fen li	400660
+强碱	qiang jian	389041
+水泥	shui ni	383385
+离子	li zi	377082
+酰化	xian hua	376141
+周期	zhou qi	370850
+倾析	qing xi	363384
+脂肪	zhi fang	353585
+陶瓷	tao ci	346025
+干燥	gan zao	341635
+进攻	jin gong	330105
+称取	cheng qu	316431
+过滤	guo lv	306705
+纤维	xian wei	292295
+不锈钢	bu xiu gang	291240
+分子	fen zi	281730
+蛋白质	dan bai zhi	281300
+氟气	fu qi	280516
+腐蚀	fu shi	279468
+乙苯	yi ben	277753
+稳定性	wen ding xing	265645
+戊烯	wu xi	263731
+离域	li yu	261927
+氯化	lv hua	257449
+降解	jiang jie	255096
+反式	fan shi	243598
+维生素	wei sheng su	242855
+解吸	jie xi	242622
+醇解	chun jie	242298
+交联	jiao lian	237244
+晶系	jing xi	236380
+钢铁	gang tie	227465
+加热	jia re	218735
+甾体	zai ti	213723
+气相	qi xiang	212800
+淀粉	dian fen	207643
+乙胺	yi an	206325
+变性	bian xing	204255
+丁基	ding ji	200088
+橡胶	xiang jiao	191898
+外界	wai jie	191430
+冰浴	bing yu	190449
+分液	fen ye	188995
+基线	ji xian	188887
+屏蔽	ping bi	188700
+氮气	dan qi	188662
+树脂	shu zhi	188347
+底物	di wu	186804
+还原	huan yuan	184950
+硝化	xiao hua	182232
+渗透	shen tou	181910
+产物	chan wu	178155
+溶液	rong ye	177220
+火碱	huo jian	174649
+焦炭	jiao tan	173911
+正极	zheng ji	170118
+无水	wu shui	168174
+外标	wai biao	167211
+氢化	qing hua	158346
+氧化	yang hua	156675
+逸度	yi du	156451
+苯胺	ben an	155074
+半导体	ban dao ti	152925
+合金	he jin	150855
+乙醇	yi chun	145895
+简并	jian bing	145505
+冻干	dong gan	145008
+叶酸	ye suan	141939
+液晶	ye jing	139135
+鉴别	jian bie	138175
+巯基	qiu ji	137218
+选律	xuan lv	136962
+磷酸	lin suan	131081
+误差	wu cha	130885
+烯基	xi ji	129361
+甲醛	jia quan	128285
+固相	gu xiang	126445
+催化剂	cui hua ji	125905
+正相	zheng xiang	120098
+碱性	jian xing	120098
+冷却	leng que	119350
+偏差	pian cha	119205
+膦酸	lin suan	117972
+烧碱	shao jian	117400
+搅拌	jiao ban	117270
+分馏	fen liu	115240
+石膏	shi gao	114616
+乙醛	yi quan	112972
+风化	feng hua	112700
+质子	zhi zi	112408
+胶体	jiao ti	112246
+原子	yuan zi	111712
+沉淀	chen dian	111660
+吸附	xi fu	110800
+吡啶	bi ding	109449
+硝基	xiao ji	107794
+浓缩	nong suo	106280
+两性	liang xing	106042
+中性	zhong xing	105410
+氧气	yang qi	105090
+升华	sheng hua	102726
+臭氧	chou yang	102346
+氨基酸	an ji suan	102150
+乙烷	yi wan	102051
+溶剂	rong ji	100072
+晶体	jing ti	99796
+磁矩	ci ju	99319
+氨解	an jie	98002
+易爆	yi bao	97066
+放射性	fang she xing	94480
+暴沸	bao fei	94477
+单键	dan jian	94104
+丙酮	bing tong	93616
+戊基	wu ji	92736
+氟代	fu dai	92506
+构象	gou xiang	92200
+液相	ye xiang	90846
+醛基	quan ji	90828
+复性	fu xing	90090
+胆固醇	dan gu chun	89825
+甲基	jia ji	89488
+蒸发	zheng fa	87988
+萘酚	nai fen	87874
+键角	jian jiao	85168
+反相	fan xiang	85054
+烟酸	yan suan	84292
+化合物	hua he wu	83435
+跃迁	yue qian	82708
+试管	shi guan	82366
+青铜	qing tong	81395
+聚乙烯	ju yi xi	80610
+溶解	rong jie	80030
+量杯	liang bei	79372
+药匙	yao chi	78880
+氨气	an qi	78850
+酯基	zhi ji	78568
+水泵	shui beng	78055
+氟化	fu hua	77626
+二氧化碳	er yang hua tan	77530
+肽键	tai jian	75724
+解离	jie li	75382
+聚酯	ju zhi	74704
+乳液	ru ye	74345
+冶炼	ye lian	72765
+选择性	xuan ze xing	72730
+水相	shui xiang	72244
+多肽	duo tai	70834
+电镀	dian du	70820
+盐酸	yan suan	70160
+酸性	suan xing	69910
+尼龙	ni long	69645
+晶胞	jing bao	67594
+滤液	lv ye	67132
+诱导力	you dao li	67006
+荧光	ying guang	66755
+烯胺	xi an	66103
+复合材料	fu he cai liao	65950
+干冰	gan bing	65770
+胡萝卜素	hu luo bo su	65636
+稀释	xi shi	64945
+烟碱	yan jian	64060
+尿素	niao su	62995
+晶面	jing mian	62452
+聚合物	ju he wu	62280
+单体	dan ti	61945
+透析	tou xi	60388
+脱水	tuo shui	59990
+甲醇	jia chun	59515
+银盐	yin yan	59164
+萜烯	tie xi	58606
+葡萄糖	pu tao tang	58330
+溴化	xiu hua	58012
+顺式	shun shi	57994
+电导	dian dao	57838
+灵敏度	ling min du	57615
+青霉素	qing mei su	57524
+硫酸	liu suan	56945
+己烷	ji wan	56104
+磷脂	lin zhi	56076
+重金属	zhong jin shu	55415
+室温	shi wen	54886
+酰基	xian ji	54682
+碱基	jian ji	54592
+键级	jian ji	54592
+非金属	fei jin shu	54550
+萃取	cui qu	54410
+乙醚	yi mi	53188
+烃基	ting ji	53158
+酰卤	xian lu	52912
+胰岛素	yi dao su	52565
+阴极	yin ji	51490
+质谱	zhi pu	51400
+鞣质	rou zhi	51364
+聚氨酯	ju an zhi	50870
+二氧化硫	er yang hua liu	50665
+烘干	hong gan	50485
+母液	mu ye	50344
+环氧树脂	huan yang shu zhi	50120
+咖啡因	ka fei yin	49733
+熵变	shang bian	49708
+催化	cui hua	49355
+氨基化	an ji hua	49282
+乙烯	yi xi	48922
+盐析	yan xi	48718
+氨基	an ji	48695
+纤维素	xian wei su	48620
+涤纶	di lun	47835
+高分子	gao fen zi	47730
+同晶	tong jing	47686
+键长	jian chang	47446
+主族	zhu zu	44710
+动力学	dong li xue	44105
+自由基	zi you ji	44035
+挥发	hui fa	43740
+亚胺	ya an	43228
+辅酶	fu mei	42544
+准确度	zhun que du	42185
+胶束	jiao shu	42088
+可逆	ke ni	41632
+皂化	zao hua	41536
+氧化铝	yang hua lv	41425
+蒎烯	pai xi	41242
+戊烷	wu wan	41026
+嘌呤	piao ling	40978
+回流	hui liu	40970
+脂肪酸	zhi fang suan	40510
+硅胶	gui jiao	40415
+振荡	zhen dang	40099
+依数性	yi shu xing	39976
+甲叉	jia cha	39904
+聚丙烯	ju bing xi	39670
+有机物	you ji wu	39590
+醋酸	cu suan	39520
+碳酸	tan suan	38830
+光谱	guang pu	38605
+电解	dian jie	38535
+复盐	fu yan	38116
+加氢	jia qing	37594
+羧基	suo ji	37486
+聚氯乙烯	ju lv yi xi	36645
+苯酚	ben fen	36172
+氟离子	fu li zi	36130
+混合物	hun he wu	36105
+比色	bi se	35638
+吡唑	bi zuo	35134
+凝胶	ning jiao	34660
+苷元	gan yuan	34006
+活性炭	huo xing tan	33965
+多酚	duo fen	33886
+多糖	duo tang	33860
+水解	shui jie	33690
+离心	li xin	33250
+蒸馏	zheng liu	32935
+副族	fu zu	32872
+金刚石	jin gang shi	32810
+氢键	qing jian	32788
+三唑	san zuo	31930
+甘油	gan you	31815
+氧化物	yang hua wu	31130
+正盐	zheng yan	30982
+锂离子电池	li li zi dian chi	30830
+温度计	wen du ji	30715
+三键	san jian	30634
+亲核	qin he	30190
+燃料电池	ran liao dian chi	30135
+渗析	shen xi	30124
+重水	zhong shui	29986
+双键	shuang jian	29938
+氯化铝	lv hua lv	29536
+苏打	su da	29506
+黄酮	huang tong	29356
+拆分	chai fen	29330
+硫化	liu hua	29105
+基峰	ji feng	28834
+表面活性剂	biao mian huo xing ji	28675
+核酸	he suan	28648
+表征	biao zheng	28615
+纯化	chun hua	28528
+环化	huan hua	28426
+标定	biao ding	28265
+负极	fu ji	28072
+辅基	fu ji	28072
+乳酸	ru suan	27895
+右旋	you xuan	27880
+乙酸	yi suan	27835
+甲苯	jia ben	27185
+糖原	tang yuan	27022
+胆矾	dan fan	26938
+单质	dan zhi	26656
+甲烷	jia wan	26475
+硝酸	xiao suan	26340
+双峰	shuang feng	26295
+碳酸钙	tan suan gai	26283
+极谱	ji pu	26104
+真空泵	zhen kong beng	25805
+油酸	you suan	25725
+弛豫	chi yu	25552
+蔗糖	zhe tang	25460
+糖类	tang lei	25425
+吡喃	bi nan	25126
+柠檬酸	ning meng suan	25107
+腐蚀性	fu shi xing	24900
+氢气	qing qi	24730
+苯基	ben ji	24658
+超导	chao dao	24635
+冷凝	leng ning	24435
+黄铜	huang tong	24380
+一氧化碳	yi yang hua tan	24305
+电解质	dian jie zhi	24305
+干馏	gan liu	24166
+点阵	dian zhen	24045
+分子量	fen zi liang	23985
+坩埚	gan guo	23806
+阳极	yang ji	23680
+核糖	he tang	23674
+钾盐	jia yan	23374
+油泵	you beng	23225
+隔膜	ge mo	22965
+抑制剂	yi zhi ji	22930
+共振	gong zhen	22815
+掺杂	chan za	22595
+氢谱	qing pu	22564
+检测器	jian ce qi	22545
+四唑	si zuo	22138
+脱附	tuo fu	21976
+纳米材料	na mi cai liao	21950
+挥发性	hui fa xing	21790
+称量	cheng liang	21640
+风干	feng gan	21540
+漏斗	lou dou	21335
+氰基	qing ji	21178
+色谱	se pu	20990
+天然橡胶	tian ran xiang jiao	20880
+莰烯	kan xi	20818
+基态	ji tai	20644
+中间体	zhong jian ti	20585
+重复性	chong fu xing	20565
+芳基	fang ji	20338
+熔点	rong dian	20235
+共沸	gong fei	19948
+阿司匹林	a si pi lin	19685
+三脚架	san jiao jia	19540
+酸雨	suan yu	19290
+当量	dang liang	19080
+精馏	jing liu	18976
+卵磷脂	luan lin zhi	18890
+磺化	huang hua	18844
+磁子	ci zi	18820
+核磁	he ci	18430
+电化学	dian hua xue	18315
+丙烯酸	bing xi suan	18300
+氰根	qing gen	18256
+酰胺	xian an	18256
+提纯	ti chun	18110
+离心机	li xin ji	17865
+生铁	sheng tie	17830
+二甲苯	er jia ben	17700
+烯烃	xi ting	17645
+裂解	lie jie	17275
+回收率	hui shou lv	17235
+烷基	wan ji	17134
+焙烧	bei shao	16840
+生物碱	sheng wu jian	16780
+内能	nei neng	16735
+超临界	chao lin jie	16730
+石灰石	shi hui shi	16540
+固化剂	gu hua ji	16450
+手性	shou xing	16444
+赖氨酸	lai an suan	16400
+不饱和脂肪酸	bu bao he zhi fang suan	16365
+阳离子	yang li zi	16335
+铁夹	tie jia	16318
+聚苯乙烯	ju ben yi xi	16280
+硅酸盐	gui suan yan	16180
+糊精	hu jing	16168
+肾上腺素	shen shang xian su	16145
+肟基	wo ji	16132
+合成纤维	he cheng xian wei	16075
+甲酸	jia suan	16015
+原子核	yuan zi he	16000
+氯化钠	lv hua na	15860
+热容	re rong	15844
+丙基	bing ji	15832
+卤素	lu su	15832
+残渣	can zha	15800
+定量分析	ding liang fen xi	15790
+芳香性	fang xiang xing	15772
+氯代	lv dai	15766
+沸石	fei shi	15700
+臭氧层	chou yang ceng	15700
+亚硝酸盐	ya xiao suan yan	15660
+温室气体	wen shi qi ti	15580
+乙二醇	yi er chun	15465
+苯乙烯	ben yi xi	15145
+乳化剂	ru hua ji	14927
+乳糖	ru tang	14835
+石墨	shi mo	14782
+硅橡胶	gui xiang jiao	14750
+肽链	tai lian	14698
+樟脑	zhang nao	14697
+尼古丁	ni gu ding	14675
+哒嗪	da qin	14674
+苯甲酸	ben jia suan	14645
+同位素	tong wei su	14640
+果糖	guo tang	14635
+草酸	cao suan	14570
+炭黑	tan hei	14420
+二肽	er tai	14398
+四环素	si huan su	14370
+晶格	jing ge	14326
+钛白粉	tai bai fen	14100
+吗啡	ma fei	14060
+亚油酸	ya you suan	14027
+有机玻璃	you ji bo li	14025
+高锰酸钾	gao meng suan jia	14025
+转化率	zhuan hua lv	14005
+腈纶	jing lun	13825
+相图	xiang tu	13738
+钝化	dun hua	13675
+分光光度法	fen guang guang du fa	13545
+电泳	dian yong	13410
+氢氧化钠	qing yang hua na	13395
+滤纸	lv zhi	13378
+分子式	fen zi shi	13305
+合成氨	he cheng an	13230
+滴管	di guan	13216
+电解液	dian jie ye	13180
+银离子	yin li zi	13132
+氯气	lv qi	13035
+共聚物	gong ju wu	13015
+反渗透	fan shen tou	12935
+丙烷	bing wan	12835
+析出	xi chu	12832
+氯化钾	lv hua jia	12815
+无氧	wu yang	12808
+氧化剂	yang hua ji	12755
+磷酸盐	lin suan yan	12755
+研钵	yan bo	12664
+有机化合物	you ji hua he wu	12655
+溶解度	rong jie du	12555
+化学势	hua xue shi	12322
+聚四氟乙烯	ju si fu yi xi	12310
+核黄素	he huang su	12202
+乙炔	yi que	12181
+红霉素	hong mei su	12180
+烧杯	shao bei	12140
+二氧化硅	er yang hua gui	12125
+热塑性	re su xing	12115
+乳化	ru hua	12098
+二噁英	er e ying	12098
+固氮	gu dan	12098
+歧化	qi hua	12098
+水层	shui ceng	12098
+洗涤	xi di	12098
+灰化	hui hua	12098
+烘箱	hong xiang	12098
+环氧	huan yang	12098
+硅醚	gui mi	12098
+结晶	jie jing	12098
+胞苷	bao gan	12098
+腺苷	xian gan	12098
+量取	liang qu	12098
+淋洗	lin xi	12082
+酸度	suan du	12080
+电子式	dian zi shi	12070
+硫酚	liu fen	12010
+馏分	liu fen	12010
+明矾	ming fan	11938
+哌啶	pai ding	11878
+润湿	run shi	11800
+色谱法	se pu fa	11800
+三嗪	san qin	11746
+旋光	xuan guang	11710
+能级	neng ji	11670
+临界点	lin jie dian	11595
+磺胺	huang an	11580
+滴定	di ding	11545
+类固醇	lei gu chun	11480
+丙烯	bing xi	11476
+原子吸收	yuan zi xi shou	11315
+相变	xiang bian	11236
+硫化氢	liu hua qing	11225
+化学分析	hua xue fen xi	11205
+绝热	jue re	11180
+核苷酸	he gan suan	11165
+水杨酸	shui yang suan	11145
+派键	pai jian	11116
+放射性同位素	fang she xing tong wei su	11080
+折射率	zhe she lv	10935
+阴离子	yin li zi	10860
+叶绿素	ye lv su	10855
+合成橡胶	he cheng xiang jiao	10805
+硼酸	peng suan	10690
+氨水	an shui	10670
+纯碱	chun jian	10600
+氧化锌	yang hua xin	10565
+铁圈	tie quan	10540
+皂苷	zao gan	10465
+镊子	nie zi	10435
+硬脂酸	ying zhi suan	10398
+通风橱	tong feng chu	10390
+硅酸	gui suan	10375
+热力学	re li xue	10280
+干电池	gan dian chi	10265
+硅油	gui you	10235
+亚麻酸	ya ma suan	10186
+化学式	hua xue shi	10185
+分光光度计	fen guang guang du ji	10140
+磺酸	huang suan	10110
+苹果酸	ping guo suan	10103
+丙醛	bing quan	10096
+硝酸盐	xiao suan yan	10020
+不可逆反应	bu ke ni fan ying	9999
+升华热	sheng hua re	9999
+富勒烯	fu le xi	9999
+摩尔质量	mo er zhi liang	9999
+最简式	zui jian shi	9999
+气体摩尔体积	qi ti mo er ti ji	9999
+氦气	hai qi	9999
+熔化热	rong hua re	9999
+石蕊	shi rui	9999
+纯品	chun pin	9999
+高压釜	gao ya fu	9999
+生物降解	sheng wu jiang jie	9895
+硫酸铜	liu suan tong	9895
+左旋	zuo xuan	9830
+氢化物	qing hua wu	9814
+卟啉	bu lin	9628
+倒吸	dao xi	9620
+核磁共振	he ci gong zhen	9565
+单峰	dan feng	9520
+双氧水	shuang yang shui	9510
+离子交换	li zi jiao huan	9510
+碳酸氢钠	tan suan qing na	9440
+干燥器	gan zao qi	9435
+酯化	zhi hua	9412
+牛磺酸	niu huang suan	9391
+聚碳酸酯	ju tan suan zhi	9390
+溶质	rong zhi	9380
+嘧啶	mi ding	9355
+强酸	qiang suan	9345
+链霉素	lian mei su	9325
+咔唑	ka zuo	9304
+氮氧化物	dan yang hua wu	9235
+共熔	gong rong	9220
+增塑剂	zeng su ji	9175
+谷氨酸	gu an suan	9175
+吸热	xi re	9085
+钙离子	gai li zi	9010
+半衰期	ban shuai qi	8995
+多巴胺	duo ba an	8985
+硫化物	liu hua wu	8950
+洗脱	xi tuo	8915
+己烯	ji xi	8848
+卤化	lu hua	8816
+漂白粉	piao bai fen	8810
+核聚变	he ju bian	8785
+甘油三酯	gan you san zhi	8780
+生石灰	sheng shi hui	8750
+吗啉	ma lin	8680
+温室效应	wen shi xiao ying	8680
+灼烧	zhuo shao	8670
+硫酸盐	liu suan yan	8670
+羟基	qiang ji	8650
+交联剂	jiao lian ji	8596
+麦芽糖	mai ya tang	8435
+结构式	jie gou shi	8420
+冰片	bing pian	8375
+煅烧	duan shao	8355
+干燥剂	gan zao ji	8330
+丙酸	bing suan	8285
+氯化物	lv hua wu	8280
+甘氨酸	gan an suan	8250
+氧化镁	yang hua mei	8177
+关环	guan huan	8164
+物质的量	wu zhi de liang	8140
+氰化物	qing hua wu	8095
+聚酰胺	ju xian an	8090
+毛细管	mao xi guan	8080
+可降解	ke jiang jie	8025
+构型	gou xing	7990
+蛋氨酸	dan an suan	7970
+衰变	shuai bian	7905
+精密度	jing mi du	7890
+二氧化钛	er yang hua tai	7840
+酪氨酸	lao an suan	7825
+癸烷	gui wan	7816
+芳烃	fang ting	7770
+结晶度	jie jing du	7750
+电导率	dian dao lv	7740
+标准溶液	biao zhun rong ye	7700
+聚乙烯醇	ju yi xi chun	7610
+钠盐	na yan	7595
+丙烯酰胺	bing xi xian an	7585
+煤焦油	mei jiao you	7580
+氟化物	fu hua wu	7525
+浓硫酸	nong liu suan	7515
+硝酸铵	xiao suan an	7456
+定性分析	ding xing fen xi	7425
+丙氨酸	bing an suan	7407
+刚玉	gang yu	7340
+呋喃	fu nan	7335
+碳谱	tan pu	7306
+反应釜	fan ying fu	7300
+氯乙烯	lv yi xi	7270
+羧酸	suo suan	7240
+钒酸	fan suan	7216
+分子筛	fen zi shai	7135
+饱和脂肪酸	bao he zhi fang suan	7135
+缓冲液	huan chong ye	7115
+丁二烯	ding er xi	7080
+化学方程式	hua xue fang cheng shi	7050
+变旋	bian xuan	7030
+吸附剂	xi fu ji	6955
+异氰酸酯	yi qing suan zhi	6920
+透光率	tou guang lv	6920
+氧化铁	yang hua tie	6915
+酒石酸	jiu shi suan	6850
+表面张力	biao mian zhang li	6810
+精氨酸	jing an suan	6760
+位阻	wei zu	6736
+过氧化氢	guo yang hua qing	6705
+氯仿	lv fang	6690
+烧瓶	shao ping	6665
+氯化铵	lv hua an	6610
+吸湿性	xi shi xing	6445
+硅烷	gui wan	6430
+过氧化物	guo yang hua wu	6410
+壳聚糖	ke ju tang	6390
+酸酐	suan gan	6370
+无机物	wu ji wu	6335
+化学需氧量	hua xue xu yang liang	6320
+联苯	lian ben	6280
+绿矾	lv fan	6268
+咪唑	mi zuo	6235
+无色无味	wu se wu wei	6230
+碳纳米管	tan na mi guan	6225
+富营养化	fu ying yang hua	6220
+硝基苯	xiao ji ben	6215
+硫酸亚铁	liu suan ya tie	6190
+酚醛树脂	fen quan shu zhi	6180
+渗透压	shen tou ya	6080
+气相色谱	qi xiang se pu	6055
+酒精灯	jiu jing deng	6055
+碳酸钠	tan suan na	6045
+聚丙烯酰胺	ju bing xi xian an	6040
+丙烯腈	bing xi jing	6010
+光催化	guang cui hua	6010
+氢氧化铝	qing yang hua lv	5990
+甲醛超标	jia quan chao biao	5955
+气密性	qi mi xing	5920
+单糖	dan tang	5908
+小苏打	xiao su da	5845
+电子天平	dian zi tian ping	5810
+催化裂化	cui hua lie hua	5785
+色氨酸	se an suan	5710
+核苷	he gan	5656
+活度	huo du	5610
+还原性	huan yuan xing	5605
+丁酸	ding suan	5596
+飞行时间	fei xing shi jian	5590
+亚砜	ya feng	5578
+溶胶	rong jiao	5565
+熵增	shang zeng	5555
+沸点	fei dian	5428
+碘酸	dian suan	5374
+青蒿素	qing hao su	5365
+亚硝酸	ya xiao suan	5360
+紫杉醇	zi shan chun	5305
+反应物	fan ying wu	5290
+黄酮类	huang tong lei	5270
+丁烷	ding wan	5260
+对苯二甲酸	dui ben er jia suan	5260
+乙烯基	yi xi ji	5225
+碳酸盐	tan suan yan	5225
+硅藻土	gui zao tu	5215
+硫酸钠	liu suan na	5205
+电动势	dian dong shi	5200
+有机相	you ji xiang	5188
+四氯化碳	si lv hua tan	5185
+氯化钙	lv hua gai	5185
+硫醇	liu chun	5170
+硫酸镁	liu suan mei	5165
+热固性	re gu xing	5160
+液相色谱	ye xiang se pu	5140
+麻黄碱	ma huang jian	5135
+氧化性	yang hua xing	5125
+化学平衡	hua xue ping heng	5110
+亲电	qin dian	5074
+硫酸铵	liu suan an	5055
+气溶胶	qi rong jiao	5050
+石灰水	shi hui shui	5040
+异丙醇	yi bing chun	5005
+一氧化二氮	yi yang hua er dan	5000
+一氧化氮	yi yang hua dan	5000
+一氯甲烷	yi lv jia wan	5000
+一水合氨	yi shui he an	5000
+一级反应	yi ji fan ying	5000
+一级结构	yi ji jie gou	5000
+一锅反应	yi guo fan ying	5000
+一锅法	yi guo fa	5000
+丁二酸	ding er suan	5000
+丁腈橡胶	ding jing xiang jiao	5000
+丁苯橡胶	ding ben xiang jiao	5000
+丁达尔效应	ding da er xiao ying	5000
+丁醛	ding quan	5000
+三乙胺	san yi an	5000
+三口烧瓶	san kou shao ping	5000
+三氟乙酸	san fu yi suan	5000
+三氟化硼	san fu hua peng	5000
+三氟甲基	san fu jia ji	5000
+三氟甲磺酰基	san fu jia huang xian ji	5000
+三氟甲磺酸	san fu jia huang suan	5000
+三氧化硫	san yang hua liu	5000
+三氧化铬	san yang hua ge	5000
+三氮唑	san dan zuo	5000
+三氯乙酸	san lv yi suan	5000
+三氯化磷	san lv hua lin	5000
+三氯化铝	san lv hua lv	5000
+三氯氧磷	san lv yang lin	5000
+三氯甲烷	san lv jia wan	5000
+三溴化磷	san xiu hua lin	5000
+三甲基硅基	san jia ji gui ji	5000
+三甲胺	san jia an	5000
+三硝基甲苯	san xiao ji jia ben	5000
+三硝基苯酚	san xiao ji ben fen	5000
+三磷酸腺苷	san lin suan xian gan	5000
+三级结构	san ji jie gou	5000
+三羧酸循环	san suo suan xun huan	5000
+三苯基氧膦	san ben ji yang lin	5000
+三苯基膦	san ben ji lin	5000
+三重峰	san chong feng	5000
+三颈烧瓶	san jing shao ping	5000
+上保护	shang bao hu	5000
+上清液	shang qing ye	5000
+不可逆过程	bu ke ni guo cheng	5000
+不对称催化	bu dui chen cui hua	5000
+不对称合成	bu dui chen he cheng	5000
+不确定性原理	bu que ding xing yuan li	5000
+不饱和溶液	bu bao he rong ye	5000
+不饱和烃	bu bao he ting	5000
+丙三醇	bing san chun	5000
+丙二酸	bing er suan	5000
+丙二酸二乙酯	bing er suan er yi zhi	5000
+丙炔	bing que	5000
+丙烯酸甲酯	bing xi suan jia zhi	5000
+丙烯醛	bing xi quan	5000
+丙酮酸	bing tong suan	5000
+丙醇	bing chun	5000
+丝氨酸	si an suan	5000
+两性氧化物	liang xing yang hua wu	5000
+中和反应	zhong he fan ying	5000
+中和热	zhong he re	5000
+中心原子	zhong xin yuan zi	5000
+中心离子	zhong xin li zi	5000
+中间产物	zhong jian chan wu	5000
+串联反应	chuan lian fan ying	5000
+串联质谱	chuan lian zhi pu	5000
+临界压力	lin jie ya li	5000
+临界温度	lin jie wen du	5000
+临界胶束浓度	lin jie jiao shu nong du	5000
+主产物	zhu chan wu	5000
+主量子数	zhu liang zi shu	5000
+乌吉反应	wu ji fan ying	5000
+乌尔曼反应	wu er man fan ying	5000
+乙二胺	yi er an	5000
+乙二胺四乙酸	yi er an si yi suan	5000
+乙二酸	yi er suan	5000
+乙二醇二甲醚	yi er chun er jia mi	5000
+乙氧基	yi yang ji	5000
+乙硼烷	yi peng wan	5000
+乙酰丙酮	yi xian bing tong	5000
+乙酰乙酸乙酯	yi xian yi suan yi zhi	5000
+乙酰基	yi xian ji	5000
+乙酰氯	yi xian lv	5000
+乙酰水杨酸	yi xian shui yang suan	5000
+乙酸丁酯	yi suan ding zhi	5000
+乙酸乙酯	yi suan yi zhi	5000
+乙酸根	yi suan gen	5000
+乙酸酐	yi suan gan	5000
+乙酸钠	yi suan na	5000
+乙醇钠	yi chun na	5000
+乳浊液	ru zhuo ye	5000
+乳液聚合	ru ye ju he	5000
+二乙胺	er yi an	5000
+二异丙基乙胺	er yi bing ji yi an	5000
+二异丙基氨基锂	er yi bing ji an ji li	5000
+二异丙胺	er yi bing an	5000
+二氢吡喃	er qing bi nan	5000
+二氧六环	er yang liu huan	5000
+二氧化氮	er yang hua dan	5000
+二氧化碳还原	er yang hua tan huan yuan	5000
+二氧化锰	er yang hua meng	5000
+二氯乙烷	er lv yi wan	5000
+二氯甲烷	er lv jia wan	5000
+二烯烃	er xi ting	5000
+二甲亚砜	er jia ya feng	5000
+二甲基乙酰胺	er jia ji yi xian an	5000
+二甲基亚砜	er jia ji ya feng	5000
+二甲基甲酰胺	er jia ji jia xian an	5000
+二甲胺	er jia an	5000
+二硫化物	er liu hua wu	5000
+二硫化碳	er liu hua tan	5000
+二硫键	er liu jian	5000
+二碳酸二叔丁酯	er tan suan er shu ding zhi	5000
+二磷酸腺苷	er lin suan xian gan	5000
+二级反应	er ji fan ying	5000
+二级结构	er ji jie gou	5000
+二维核磁	er wei he ci	5000
+二苯甲酮	er ben jia tong	5000
+二苯醚	er ben mi	5000
+二茂铁	er mao tie	5000
+二萜	er tie	5000
+互变异构	hu bian yi gou	5000
+五氧化二氮	wu yang hua er dan	5000
+五氧化二磷	wu yang hua er lin	5000
+五氧化二钒	wu yang hua er fan	5000
+五氯化磷	wu lv hua lin	5000
+五水硫酸铜	wu shui liu suan tong	5000
+亚氨基	ya an ji	5000
+亚氯酸	ya lv suan	5000
+亚甲基	ya jia ji	5000
+亚硝基	ya xiao ji	5000
+亚硝酸根	ya xiao suan gen	5000
+亚硝酸钠	ya xiao suan na	5000
+亚硫酰氯	ya liu xian lv	5000
+亚硫酸	ya liu suan	5000
+亚硫酸根	ya liu suan gen	5000
+亚硫酸盐	ya liu suan yan	5000
+亚硫酸钠	ya liu suan na	5000
+亚磷酸	ya lin suan	5000
+亚铁氰化钾	ya tie qing hua jia	5000
+亚铁盐	ya tie yan	5000
+亚铁离子	ya tie li zi	5000
+交叉偶联	jiao cha ou lian	5000
+交叉式	jiao cha shi	5000
+交替共聚物	jiao ti gong ju wu	5000
+亥姆霍兹自由能	hai mu huo zi zi you neng	5000
+产率	chan lv	5000
+亨利定律	heng li ding lv	5000
+亮氨酸	liang an suan	5000
+亲双烯体	qin shuang xi ti	5000
+亲和色谱	qin he se pu	5000
+亲核加成	qin he jia cheng	5000
+亲核取代	qin he qu dai	5000
+亲核试剂	qin he shi ji	5000
+亲电加成	qin dian jia cheng	5000
+亲电取代	qin dian qu dai	5000
+亲电性	qin dian xing	5000
+亲电试剂	qin dian shi ji	5000
+介孔材料	jie kong cai liao	5000
+从头算	cong tou suan	5000
+仪器分析	yi qi fen xi	5000
+仲丁基	zhong ding ji	5000
+价层电子对互斥理论	jia ceng dian zi dui hu chi li lun	5000
+价键理论	jia jian li lun	5000
+伍德沃德-霍夫曼规则	wu de wo de huo fu man gui ze	5000
+伏安法	fu an fa	5000
+休克尔规则	xiu ke er gui ze	5000
+伦敦色散力	lun dun se san li	5000
+伯奇还原	bo qi huan yuan	5000
+伽马射线	ga ma she xian	5000
+低共熔	di gong rong	5000
+低聚物	di ju wu	5000
+低自旋	di zi xuan	5000
+体心立方	ti xin li fang	5000
+体积分数	ti ji fen shu	5000
+体积排阻色谱	ti ji pai zu se pu	5000
+侯氏制碱法	hou shi zhi jian fa	5000
+保护基团	bao hu ji tuan	5000
+保留值	bao liu zhi	5000
+保留时间	bao liu shi jian	5000
+倍半萜	bei ban tie	5000
+偏摩尔量	pian mo er liang	5000
+偏磷酸	pian lin suan	5000
+偏铝酸根	pian lv suan gen	5000
+偏铝酸钠	pian lv suan na	5000
+偶合反应	ou he fan ying	5000
+偶合常数	ou he chang shu	5000
+偶极矩	ou ji ju	5000
+偶氮化合物	ou dan hua he wu	5000
+偶氮基	ou dan ji	5000
+偶氮苯	ou dan ben	5000
+偶然误差	ou ran wu cha	5000
+偶联反应	ou lian fan ying	5000
+傅-克反应	fu ke fan ying	5000
+傅克反应	fu ke fan ying	5000
+傅克烷基化	fu ke wan ji hua	5000
+傅克酰基化	fu ke xian ji hua	5000
+傅里叶变换红外光谱	fu li ye bian huan hong wai guang pu	5000
+储氢材料	chu qing cai liao	5000
+催化作用	cui hua zuo yong	5000
+催化剂中毒	cui hua ji zhong du	5000
+催化加氢	cui hua jia qing	5000
+催化材料	cui hua cai liao	5000
+催化重整	cui hua chong zheng	5000
+催化量	cui hua liang	5000
+儿茶酚	er cha fen	5000
+元素分析	yuan su fen xi	5000
+元素周期律	yuan su zhou qi lv	5000
+元素周期表	yuan su zhou qi biao	5000
+光化学	guang hua xue	5000
+光化学烟雾	guang hua xue yan wu	5000
+光延反应	guang yan fan ying	5000
+光敏剂	guang min ji	5000
+光氧化还原催化	guang yang hua huan yuan cui hua	5000
+光解水	guang jie shui	5000
+光谱法	guang pu fa	5000
+光谱项	guang pu xiang	5000
+光降解	guang jiang jie	5000
+克劳修斯-克拉佩龙方程	ke lao xiu si ke la pei long fang cheng	5000
+克拉佩龙方程	ke la pei long fang cheng	5000
+克脑文盖尔缩合	ke nao wen gai er suo he	5000
+克莱森缩合	ke lai sen suo he	5000
+克莱森重排	ke lai sen chong pai	5000
+克莱门森还原	ke lai men sen huan yuan	5000
+全合成	quan he cheng	5000
+八面体场	ba mian ti chang	5000
+六方密堆积	liu fang mi dui ji	5000
+六甲基磷酰三胺	liu jia ji lin xian san an	5000
+共价半径	gong jia ban jing	5000
+共价晶体	gong jia jing ti	5000
+共价有机框架	gong jia you ji kuang jia	5000
+共价键	gong jia jian	5000
+共振式	gong zhen shi	5000
+共振杂化体	gong zhen za hua ti	5000
+共振结构	gong zhen jie gou	5000
+共沸物	gong fei wu	5000
+共轭二烯	gong e er xi	5000
+共轭体系	gong e ti xi	5000
+共轭效应	gong e xiao ying	5000
+共轭碱	gong e jian	5000
+共轭酸	gong e suan	5000
+兴斯堡反应	xing si bao fan ying	5000
+内标	nei biao	5000
+内标法	nei biao fa	5000
+内消旋	nei xiao xuan	5000
+内消旋体	nei xiao xuan ti	5000
+内转换	nei zhuan huan	5000
+内酰胺	nei xian an	5000
+冰醋酸	bing cu suan	5000
+决速步	jue su bu	5000
+冷冻干燥	leng dong gan zao	5000
+冷凝管	leng ning guan	5000
+冷却结晶	leng que jie jing	5000
+准一级反应	zhun yi ji fan ying	5000
+减压蒸馏	jian ya zheng liu	5000
+减压过滤	jian ya guo lv	5000
+凝固点	ning gu dian	5000
+凝固点降低	ning gu dian jiang di	5000
+凝胶渗透色谱	ning jiao shen tou se pu	5000
+几丁质	ji ding zhi	5000
+几何异构	ji he yi gou	5000
+凯库勒式	kai ku le shi	5000
+凯氏定氮法	kai shi ding dan fa	5000
+分子动力学	fen zi dong li xue	5000
+分子晶体	fen zi jing ti	5000
+分子离子峰	fen zi li zi feng	5000
+分子轨道	fen zi gui dao	5000
+分子轨道对称守恒	fen zi gui dao dui chen shou heng	5000
+分子轨道理论	fen zi gui dao li lun	5000
+分子量分布	fen zi liang fen bu	5000
+分子间作用力	fen zi jian zuo yong li	5000
+分析天平	fen xi tian ping	5000
+分水器	fen shui qi	5000
+分液漏斗	fen ye lou dou	5000
+分离度	fen li du	5000
+分解反应	fen jie fan ying	5000
+分解电压	fen jie dian ya	5000
+分配定律	fen pei ding lv	5000
+分配系数	fen pei xi shu	5000
+分馏塔	fen liu ta	5000
+别构	bie gou	5000
+刺激性气味	ci ji xing qi wei	5000
+前线轨道	qian xian gui dao	5000
+前线轨道理论	qian xian gui dao li lun	5000
+副产物	fu chan wu	5000
+加布里埃尔合成	jia bu li ai er he cheng	5000
+加成反应	jia cheng fan ying	5000
+加标回收	jia biao hui shou	5000
+加热套	jia re tao	5000
+加特曼反应	jia te man fan ying	5000
+加聚反应	jia ju fan ying	5000
+动力学同位素效应	dong li xue tong wei su xiao ying	5000
+助催化剂	zhu cui hua ji	5000
+势能面	shi neng mian	5000
+勒夏特列原理	lei xia te lie yuan li	5000
+化合价	hua he jia	5000
+化合反应	hua he fan ying	5000
+化学位移	hua xue wei yi	5000
+化学动力学	hua xue dong li xue	5000
+化学反应速率	hua xue fan ying su lv	5000
+化学吸附	hua xue xi fu	5000
+化学平衡常数	hua xue ping heng chang shu	5000
+化学热力学	hua xue re li xue	5000
+化学计量	hua xue ji liang	5000
+化学计量点	hua xue ji liang dian	5000
+化学选择性	hua xue xuan ze xing	5000
+化学键	hua xue jian	5000
+区域选择性	qu yu xuan ze xing	5000
+半乳糖	ban ru tang	5000
+半合成	ban he cheng	5000
+半缩酮	ban suo tong	5000
+半缩醛	ban suo quan	5000
+半胱氨酸	ban guang an suan	5000
+半金属	ban jin shu	5000
+协同反应	xie tong fan ying	5000
+单分子亲核取代	dan fen zi qin he qu dai	5000
+单分子消除	dan fen zi xiao chu	5000
+单晶衍射	dan jing yan she	5000
+单齿配体	dan chi pei ti	5000
+卡宾	ka bin	5000
+卢卡斯试剂	lu ka si shi ji	5000
+卤代	lu dai	5000
+卤代烃	lu dai ting	5000
+卤代烷	lu dai wan	5000
+卤仿反应	lu fang fan ying	5000
+卤化氢	lu hua qing	5000
+卤化物	lu hua wu	5000
+卤族元素	lu zu yuan su	5000
+卤素原子	lu su yuan zi	5000
+原子力显微镜	yuan zi li xian wei jing	5000
+原子半径	yuan zi ban jing	5000
+原子发射光谱	yuan zi fa she guang pu	5000
+原子吸收光谱	yuan zi xi shou guang pu	5000
+原子晶体	yuan zi jing ti	5000
+原子经济性	yuan zi jing ji xing	5000
+原子荧光	yuan zi ying guang	5000
+原子轨道	yuan zi gui dao	5000
+原子量	yuan zi liang	5000
+原电池	yuan dian chi	5000
+去屏蔽	qu ping bi	5000
+参比电极	can bi dian ji	5000
+双分子亲核取代	shuang fen zi qin he qu dai	5000
+双分子消除	shuang fen zi xiao chu	5000
+双排管	shuang pai guan	5000
+双烯体	shuang xi ti	5000
+双烯合成	shuang xi he cheng	5000
+双糖	shuang tang	5000
+双羟化	shuang qiang hua	5000
+双齿配体	shuang chi pei ti	5000
+反丁烯二酸	fan ding xi er suan	5000
+反应中间体	fan ying zhong jian ti	5000
+反应历程	fan ying li cheng	5000
+反应商	fan ying shang	5000
+反应机理	fan ying ji li	5000
+反应热	fan ying re	5000
+反应级数	fan ying ji shu	5000
+反应速率	fan ying su lv	5000
+反式加成	fan shi jia cheng	5000
+反式消除	fan shi xiao chu	5000
+反磁性	fan ci xing	5000
+反芳香性	fan fang xiang xing	5000
+反萃取	fan cui qu	5000
+反键轨道	fan jian gui dao	5000
+反馈键	fan kui jian	5000
+反马氏规则	fan ma shi gui ze	5000
+发射光谱	fa she guang pu	5000
+发烟硝酸	fa yan xiao suan	5000
+发烟硫酸	fa yan liu suan	5000
+叔丁基	shu ding ji	5000
+叔丁基二甲基硅基	shu ding ji er jia ji gui ji	5000
+叔丁基锂	shu ding ji li	5000
+叔丁氧羰基	shu ding yang tang ji	5000
+叔丁醇	shu ding chun	5000
+叔丁醇钾	shu ding chun jia	5000
+取代反应	qu dai fan ying	5000
+取代基	qu dai ji	5000
+取向力	qu xiang li	5000
+变分法	bian fen fa	5000
+变旋现象	bian xuan xian xiang	5000
+变构	bian gou	5000
+叠氮化物	die dan hua wu	5000
+叠氮化钠	die dan hua na	5000
+叠氮基	die dan ji	5000
+叠氮酸	die dan suan	5000
+可待因	ke dai yin	5000
+可逆反应	ke ni fan ying	5000
+可逆过程	ke ni guo cheng	5000
+史莱克线	shi lai ke xian	5000
+叶立德	ye li de	5000
+合成子	he cheng zi	5000
+合成路线	he cheng lu xian	5000
+吉尔曼试剂	ji er man shi ji	5000
+吉布斯-亥姆霍兹方程	ji bu si hai mu huo zi fang cheng	5000
+吉布斯自由能	ji bu si zi you neng	5000
+同位素峰	tong wei su feng	5000
+同位素效应	tong wei su xiao ying	5000
+同位素标记	tong wei su biao ji	5000
+同分异构	tong fen yi gou	5000
+同分异构体	tong fen yi gou ti	5000
+同离子效应	tong li zi xiao ying	5000
+同系物	tong xi wu	5000
+同素异形体	tong su yi xing ti	5000
+后处理	hou chu li	5000
+后期官能团化	hou qi guan neng tuan hua	5000
+向上排空气法	xiang shang pai kong qi fa	5000
+向下排空气法	xiang xia pai kong qi fa	5000
+吖啶	a ding	5000
+吡咯烷	bi luo wan	5000
+吡咯烷酮	bi luo wan tong	5000
+吡哆醇	bi duo chun	5000
+吡喃糖	bi nan tang	5000
+吡嗪	bi qin	5000
+吲哚	yin duo	5000
+吸光度	xi guang du	5000
+吸收光谱	xi shou guang pu	5000
+吸氧腐蚀	xi yang fu shi	5000
+吸热反应	xi re fan ying	5000
+吸电子基	xi dian zi ji	5000
+吸电子基团	xi dian zi ji tuan	5000
+吸量管	xi liang guan	5000
+吸附等温线	xi fu deng wen xian	5000
+呋喃糖	fu nan tang	5000
+周环反应	zhou huan fan ying	5000
+哈伯法	ha bo fa	5000
+哈沃斯式	ha wo si shi	5000
+哌嗪	pai qin	5000
+喹啉	kui lin	5000
+噻吩	sai fen	5000
+噻唑	sai zuo	5000
+四极杆	si ji gan	5000
+四氟乙烯	si fu yi xi	5000
+四氢吡喃	si qing bi nan	5000
+四氢呋喃	si qing fu nan	5000
+四氧化三铁	si yang hua san tie	5000
+四氧化二氮	si yang hua er dan	5000
+四氧化锇	si yang hua e	5000
+四氮唑	si dan zuo	5000
+四氯化钛	si lv hua tai	5000
+四甲基硅烷	si jia ji gui wan	5000
+四级结构	si ji jie gou	5000
+四重峰	si chong feng	5000
+四面体场	si mian ti chang	5000
+园头偶联	yuan tou ou lian	5000
+固定相	gu ding xiang	5000
+固态电解质	gu tai dian jie zhi	5000
+固相合成	gu xiang he cheng	5000
+固相萃取	gu xiang cui qu	5000
+圆二色谱	yuan er se pu	5000
+圆底烧瓶	yuan di shao ping	5000
+场效应	chang xiao ying	5000
+均相催化	jun xiang cui hua	5000
+均聚物	jun ju wu	5000
+坎尼扎罗反应	kan ni zha luo fan ying	5000
+坩埚钳	gan guo qian	5000
+基元反应	ji yuan fan ying	5000
+基准物质	ji zhun wu zhi	5000
+基尔霍夫定律	ji er huo fu ding lv	5000
+塔板数	ta ban shu	5000
+壬烷	ren wan	5000
+复分解	fu fen jie	5000
+复分解反应	fu fen jie fan ying	5000
+夏普莱斯不对称双羟化	xia pu lai si bu dui chen shuang qiang hua	5000
+夏普莱斯环氧化	xia pu lai si huan yang hua	5000
+外标法	wai biao fa	5000
+外消旋	wai xiao xuan	5000
+外消旋体	wai xiao xuan ti	5000
+外消旋化	wai xiao xuan hua	5000
+多分散性	duo fen san xing	5000
+多孔材料	duo kong cai liao	5000
+多晶型	duo jing xing	5000
+多步合成	duo bu he cheng	5000
+多氯联苯	duo lv lian ben	5000
+多环芳烃	duo huan fang ting	5000
+多相催化	duo xiang cui hua	5000
+多组分反应	duo zu fen fan ying	5000
+多聚磷酸	duo ju lin suan	5000
+多重峰	duo chong feng	5000
+多齿配体	duo chi pei ti	5000
+大派键	da pai jian	5000
+天冬氨酸	tian dong an suan	5000
+天冬酰胺	tian dong xian an	5000
+天然产物	tian ran chan wu	5000
+头孢菌素	tou bao jun su	5000
+奎宁	kui ning	5000
+姜-泰勒效应	jiang tai lei xiao ying	5000
+威尔金森催化剂	wei er jin sen cui hua ji	5000
+威廉姆森醚合成	wei lian mu sen mi he cheng	5000
+威廉姆逊合成	wei lian mu xun he cheng	5000
+季铵盐	ji an yan	5000
+季铵碱	ji an jian	5000
+孤对电子	gu dui dian zi	5000
+孤电子对	gu dian zi dui	5000
+孤立体系	gu li ti xi	5000
+官能团	guan neng tuan	5000
+官能团化	guan neng tuan hua	5000
+官能团耐受性	guan neng tuan nai shou xing	5000
+官能团转化	guan neng tuan zhuan hua	5000
+定位基	ding wei ji	5000
+定位效应	ding wei xiao ying	5000
+定压热容	ding ya re rong	5000
+定容	ding rong	5000
+定容热容	ding rong re rong	5000
+定量限	ding liang xian	5000
+容量瓶	rong liang ping	5000
+密堆积	mi dui ji	5000
+密度泛函理论	mi du fan han li lun	5000
+富马酸	fu ma suan	5000
+寡糖	gua tang	5000
+寡聚物	gua ju wu	5000
+寡肽	gua tai	5000
+对二甲苯	dui er jia ben	5000
+对位交叉	dui wei jiao cha	5000
+对旋	dui xuan	5000
+对映体	dui ying ti	5000
+对映体过量	dui ying ti guo liang	5000
+对映异构	dui ying yi gou	5000
+对映异构体	dui ying yi gou ti	5000
+对映选择性	dui ying xuan ze xing	5000
+对甲苯磺酰基	dui jia ben huang xian ji	5000
+对甲苯磺酸	dui jia ben huang suan	5000
+对电极	dui dian ji	5000
+对苯二酚	dui ben er fen	5000
+对苯醌	dui ben kun	5000
+对角线规则	dui jiao xian gui ze	5000
+封闭体系	feng bi ti xi	5000
+尾接管	wei jie guan	5000
+尾气处理	wei qi chu li	5000
+尿嘧啶	niao mi ding	5000
+尿苷	niao gan	5000
+层析柱	ceng xi zhu	5000
+屏蔽效应	ping bi xiao ying	5000
+展开剂	zhan kai ji	5000
+峰面积	feng mian ji	5000
+嵌段共聚物	qian duan gong ju wu	5000
+工作电极	gong zuo dian ji	5000
+差向异构化	cha xiang yi gou hua	5000
+差热分析	cha re fen xi	5000
+差示扫描量热	cha shi sao miao liang re	5000
+己二胺	ji er an	5000
+己二酸	ji er suan	5000
+巴顿反应	ba dun fan ying	5000
+布拉格方程	bu la ge fang cheng	5000
+布朗斯特碱	bu lang si te jian	5000
+布朗斯特酸	bu lang si te suan	5000
+布朗运动	bu lang yun dong	5000
+布氏漏斗	bu shi lou dou	5000
+布赫瓦尔德-哈特维希偶联	bu he wa er de ha te wei xi ou lian	5000
+希夫碱	xi fu jian	5000
+希夫试剂	xi fu shi ji	5000
+帕尔-克诺尔合成	pa er ke nuo er he cheng	5000
+帕瑟里尼反应	pa se li ni fan ying	5000
+席曼反应	xi man fan ying	5000
+干燥管	gan zao guan	5000
+平伏键	ping fu jian	5000
+平底烧瓶	ping di shao ping	5000
+平行测定	ping xing ce ding	5000
+平衡常数	ping heng chang shu	5000
+平衡移动	ping heng yi dong	5000
+平衡转化率	ping heng zhuan hua lv	5000
+广口瓶	guang kou ping	5000
+库仑法	ku lun fa	5000
+库尔提斯重排	ku er ti si chong pai	5000
+底物范围	di wu fan wei	5000
+康尼查罗反应	kang ni cha luo fan ying	5000
+开环	kai huan	5000
+开环聚合	kai huan ju he	5000
+异丁基	yi ding ji	5000
+异丁烯	yi ding xi	5000
+异丙基	yi bing ji	5000
+异丙苯	yi bing ben	5000
+异亮氨酸	yi liang an suan	5000
+异喹啉	yi kui lin	5000
+异戊二烯	yi wu er xi	5000
+异戊烷	yi wu wan	5000
+异构化	yi gou hua	5000
+引发剂	yin fa ji	5000
+弗兰克-康登原理	fu lan ke kang deng yuan li	5000
+弗里斯重排	fu li si chong pai	5000
+弱电解质	ruo dian jie zhi	5000
+弱碱	ruo jian	5000
+弱酸	ruo suan	5000
+强电解质	qiang dian jie zhi	5000
+归中反应	gui zhong fan ying	5000
+得失电子守恒	de shi dian zi shou heng	5000
+循环伏安	xun huan fu an	5000
+循环伏安法	xun huan fu an fa	5000
+循环水泵	xun huan shui beng	5000
+微溶于水	wei rong yu shui	5000
+快速柱层析	kuai su zhu ceng xi	5000
+恒压滴液漏斗	heng ya di ye lou dou	5000
+恒沸物	heng fei wu	5000
+悬浊液	xuan zhuo ye	5000
+悬浮聚合	xuan fu ju he	5000
+惰性气体	duo xing qi ti	5000
+惰性气氛	duo xing qi fen	5000
+惰性电子对效应	duo xing dian zi dui xiao ying	5000
+成键电子	cheng jian dian zi	5000
+成键轨道	cheng jian gui dao	5000
+戴斯-马丁氧化	dai si ma ding yang hua	5000
+戴斯马丁试剂	dai si ma ding shi ji	5000
+手套箱	shou tao xiang	5000
+手性中心	shou xing zhong xin	5000
+手性催化剂	shou xing cui hua ji	5000
+手性分子	shou xing fen zi	5000
+手性助剂	shou xing zhu ji	5000
+手性拆分	shou xing chai fen	5000
+手性池	shou xing chi	5000
+手性碳	shou xing tan	5000
+手性色谱	shou xing se pu	5000
+手性轴	shou xing zhou	5000
+手性配体	shou xing pei ti	5000
+扎伊采夫规则	zha yi cai fu gui ze	5000
+托伦试剂	tuo lun shi ji	5000
+托盘天平	tuo pan tian ping	5000
+扩环	kuo huan	5000
+扫描电子显微镜	sao miao dian zi xian wei jing	5000
+扫描电镜	sao miao dian jing	5000
+扫描隧道显微镜	sao miao sui dao xian wei jing	5000
+扭船式	niu chuan shi	5000
+扭转张力	niu zhuan zhang li	5000
+抗坏血酸	kang huai xue suan	5000
+抗磁性	kang ci xing	5000
+抽滤瓶	chou lv ping	5000
+拉乌尔定律	la wu er ding lv	5000
+拉曼光谱	la man guang pu	5000
+拉电子	la dian zi	5000
+拜耳-维利格氧化	bai er wei li ge yang hua	5000
+持久性有机污染物	chi jiu xing you ji wu ran wu	5000
+指前因子	zhi qian yin zi	5000
+指示剂	zhi shi ji	5000
+指示电极	zhi shi dian ji	5000
+挥发性有机物	hui fa xing you ji wu	5000
+接收瓶	jie shou ping	5000
+接枝共聚物	jie zhi gong ju wu	5000
+接触法	jie chu fa	5000
+接触角	jie chu jiao	5000
+推电子	tui dian zi	5000
+插入反应	cha ru fan ying	5000
+搅拌子	jiao ban zi	5000
+摩尔分数	mo er fen shu	5000
+摩尔吸光系数	mo er xi guang xi shu	5000
+摩尔浓度	mo er nong du	5000
+摩尔热容	mo er re rong	5000
+摩尔电导率	mo er dian dao lv	5000
+放热反应	fang re fan ying	5000
+敞开体系	chang kai ti xi	5000
+数均分子量	shu jun fen zi liang	5000
+斐林试剂	fei lin shi ji	5000
+斯克劳普合成	si ke lao pu he cheng	5000
+斯文氧化	si wen yang hua	5000
+斯特雷克合成	si te lei ke he cheng	5000
+斯蒂尔偶联	si di er ou lian	5000
+新戊烷	xin wu wan	5000
+施密特反应	shi mi te fan ying	5000
+施陶丁格反应	shi tao ding ge fan ying	5000
+旋光仪	xuan guang yi	5000
+旋光度	xuan guang du	5000
+旋光性	xuan guang xing	5000
+旋干	xuan gan	5000
+旋蒸	xuan zheng	5000
+旋转蒸发仪	xuan zhuan zheng fa yi	5000
+无水氯化钙	wu shui lv hua gai	5000
+无水硫酸钠	wu shui liu suan na	5000
+无水硫酸镁	wu shui liu suan mei	5000
+无色液体	wu se ye ti	5000
+无规共聚物	wu gui gong ju wu	5000
+易挥发	yi hui fa	5000
+易溶于水	yi rong yu shui	5000
+易潮解	yi chao jie	5000
+普朗克常数	pu lang ke chang shu	5000
+普林斯反应	pu lin si fan ying	5000
+晶体场分裂能	jing ti chang fen lie neng	5000
+晶体场理论	jing ti chang li lun	5000
+晶格能	jing ge neng	5000
+曼尼希反应	man ni xi fan ying	5000
+最低未占轨道	zui di wei zhan gui dao	5000
+最高占据轨道	zui gao zhan ju gui dao	5000
+有效数字	you xiao shu zi	5000
+有效碰撞	you xiao peng zhuang	5000
+有机催化	you ji cui hua	5000
+有机层	you ji ceng	5000
+有机金属化合物	you ji jin shu hua he wu	5000
+有机铜试剂	you ji tong shi ji	5000
+有机锂试剂	you ji li shi ji	5000
+有机锌试剂	you ji xin shi ji	5000
+朗伯-比尔定律	lang bo bi er ding lv	5000
+朗伯比尔定律	lang bo bi er ding lv	5000
+朗缪尔吸附	lang mou er xi fu	5000
+木质素	mu zhi su	5000
+未成对电子	wei cheng dui dian zi	5000
+本体聚合	ben ti ju he	5000
+本生灯	ben sheng deng	5000
+杂化	za hua	5000
+杂化轨道	za hua gui dao	5000
+杂化轨道理论	za hua gui dao li lun	5000
+杂环	za huan	5000
+杂环化合物	za huan hua he wu	5000
+极性分子	ji xing fen zi	5000
+极性键	ji xing jian	5000
+构型保持	gou xing bao chi	5000
+构型异构	gou xing yi gou	5000
+构型翻转	gou xing fan zhuan	5000
+构象异构	gou xiang yi gou	5000
+构造原理	gou zao yuan li	5000
+构造异构	gou zao yi gou	5000
+析氢反应	xi qing fan ying	5000
+析氢腐蚀	xi qing fu shi	5000
+析氧反应	xi yang fan ying	5000
+林德拉催化剂	lin de la cui hua ji	5000
+柠檬烯	ning meng xi	5000
+柠檬酸循环	ning meng suan xun huan	5000
+柯尔伯-施密特反应	ke er bo shi mi te fan ying	5000
+柯普重排	ke pu chong pai	5000
+柱分离	zhu fen li	5000
+柱层析	zhu ceng xi	5000
+柱色谱	zhu se pu	5000
+标准偏差	biao zhun pian cha	5000
+标准加入法	biao zhun jia ru fa	5000
+标准平衡常数	biao zhun ping heng chang shu	5000
+标准摩尔燃烧焓	biao zhun mo er ran shao han	5000
+标准摩尔生成焓	biao zhun mo er sheng cheng han	5000
+标准曲线	biao zhun qu xian	5000
+标准氢电极	biao zhun qing dian ji	5000
+标准状况	biao zhun zhuang kuang	5000
+标准电极电势	biao zhun dian ji dian shi	5000
+核反应	he fan ying	5000
+核外电子	he wai dian zi	5000
+核磁共振氢谱	he ci gong zhen qing pu	5000
+核磁共振碳谱	he ci gong zhen tan pu	5000
+核糖核酸	he tang he suan	5000
+核素	he su	5000
+核裂变	he lie bian	5000
+根岸偶联	gen an ou lian	5000
+格拉布催化剂	ge la bu cui hua ji	5000
+格氏反应	ge shi fan ying	5000
+格氏试剂	ge shi shi ji	5000
+桑德迈尔反应	sang de mai er fan ying	5000
+检出限	jian chu xian	5000
+检查气密性	jian cha qi mi xing	5000
+棕榈酸	zong lv suan	5000
+椅式构象	yi shi gou xiang	5000
+楔形式	xie xing shi	5000
+橡胶塞	xiang jiao sai	5000
+次氯酸	ci lv suan	5000
+次氯酸根	ci lv suan gen	5000
+次氯酸钙	ci lv suan gai	5000
+次氯酸钠	ci lv suan na	5000
+次生代谢产物	ci sheng dai xie chan wu	5000
+次甲基	ci jia ji	5000
+次磷酸	ci lin suan	5000
+欧芬脑尔氧化	ou fen nao er yang hua	5000
+正丁基	zheng ding ji	5000
+正丁基锂	zheng ding ji li	5000
+正丁醇	zheng ding chun	5000
+正己烷	zheng ji wan	5000
+歧化反应	qi hua fan ying	5000
+比吉内利反应	bi ji nei li fan ying	5000
+比旋光度	bi xuan guang du	5000
+比热容	bi re rong	5000
+比移值	bi yi zhi	5000
+比色法	bi se fa	5000
+比色皿	bi se min	5000
+比表面积	bi biao mian ji	5000
+比表面积测定	bi biao mian ji ce ding	5000
+毛细现象	mao xi xian xiang	5000
+毛细管电泳	mao xi guan dian yong	5000
+气质联用	qi zhi lian yong	5000
+氘代氯仿	dao dai lv fang	5000
+氘代试剂	dao dai shi ji	5000
+氟利昂	fu li ang	5000
+氟化氢	fu hua qing	5000
+氟化钙	fu hua gai	5000
+氟氯烃	fu lv ting	5000
+氢化钙	qing hua gai	5000
+氢化铝锂	qing hua lv li	5000
+氢氟酸	qing fu suan	5000
+氢氧化亚铁	qing yang hua ya tie	5000
+氢氧化物	qing yang hua wu	5000
+氢氧化钙	qing yang hua gai	5000
+氢氧化钡	qing yang hua bei	5000
+氢氧化钾	qing yang hua jia	5000
+氢氧化铁	qing yang hua tie	5000
+氢氧化铜	qing yang hua tong	5000
+氢氧化镁	qing yang hua mei	5000
+氢氧根	qing yang gen	5000
+氢氧根离子	qing yang gen li zi	5000
+氢氰酸	qing qing suan	5000
+氢溴酸	qing xiu suan	5000
+氢甲酰化	qing jia xian hua	5000
+氢硫酸	qing liu suan	5000
+氢碘酸	qing dian suan	5000
+氢离子	qing li zi	5000
+氢醌	qing kun	5000
+氧化亚铁	yang hua ya tie	5000
+氧化亚铜	yang hua ya tong	5000
+氧化产物	yang hua chan wu	5000
+氧化加成	yang hua jia cheng	5000
+氧化反应	yang hua fan ying	5000
+氧化态	yang hua tai	5000
+氧化数	yang hua shu	5000
+氧化磷酸化	yang hua lin suan hua	5000
+氧化还原	yang hua huan yuan	5000
+氧化还原反应	yang hua huan yuan fan ying	5000
+氧化还原滴定	yang hua huan yuan di ding	5000
+氧化钙	yang hua gai	5000
+氧化钠	yang hua na	5000
+氧化铜	yang hua tong	5000
+氧还原反应	yang huan yuan fan ying	5000
+氨基甲酸酯	an ji jia suan zhi	5000
+氨基钠	an ji na	5000
+氨碱法	an jian fa	5000
+氩气保护	ya qi bao hu	5000
+氮丙啶	dan bing ding	5000
+氮化物	dan hua wu	5000
+氮宾	dan bin	5000
+氮杂环丙烷	dan za huan bing wan	5000
+氮气保护	dan qi bao hu	5000
+氮甲基吡咯烷酮	dan jia ji bi luo wan tong	5000
+氯丁橡胶	lv ding xiang jiao	5000
+氯乙烷	lv yi wan	5000
+氯乙酸	lv yi suan	5000
+氯化亚砜	lv hua ya feng	5000
+氯化亚铁	lv hua ya tie	5000
+氯化苄	lv hua bian	5000
+氯化钡	lv hua bei	5000
+氯化铁	lv hua tie	5000
+氯化铜	lv hua tong	5000
+氯化银	lv hua yin	5000
+氯化锌	lv hua xin	5000
+氯化镁	lv hua mei	5000
+氯甲烷	lv jia wan	5000
+氯甲酸乙酯	lv jia suan yi zhi	5000
+氯甲酸苄酯	lv jia suan bian zhi	5000
+氯碱工业	lv jian gong ye	5000
+氯离子	lv li zi	5000
+氯酸根	lv suan gen	5000
+氯酸钾	lv suan jia	5000
+氯铬酸吡啶	lv ge suan bi ding	5000
+氰化钾	qing hua jia	5000
+氰基硼氢化钠	qing ji peng qing hua na	5000
+水分解	shui fen jie	5000
+水合氢离子	shui he qing li zi	5000
+水杨醛	shui yang quan	5000
+水浴加热	shui yu jia re	5000
+水玻璃	shui bo li	5000
+水的离子积	shui de li zi ji	5000
+水蒸气蒸馏	shui zheng qi zheng liu	5000
+水解反应	shui jie fan ying	5000
+汉斯吡啶合成	han si bi ding he cheng	5000
+汽化热	qi hua re	5000
+沃尔夫-凯惜纳还原	wo er fu kai xi na huan yuan	5000
+沃尔夫重排	wo er fu chong pai	5000
+沉淀滴定	chen dian di ding	5000
+沙瑞特试剂	sha rui te shi ji	5000
+沸点升高	fei dian sheng gao	5000
+沸石分子筛	fei shi fen zi shai	5000
+油浴加热	you yu jia re	5000
+法拉第定律	fa la di ding lv	5000
+法拉第常数	fa la di chang shu	5000
+法沃斯基重排	fa wo si ji chong pai	5000
+泡利不相容原理	pao li bu xiang rong yuan li	5000
+波函数	bo han shu	5000
+波粒二象性	bo li er xiang xing	5000
+泥三角	ni san jiao	5000
+洗气瓶	xi qi ping	5000
+洗脱剂	xi tuo ji	5000
+洪特规则	hong te gui ze	5000
+活化基团	huo hua ji tuan	5000
+活化络合物	huo hua luo he wu	5000
+活化能	huo hua neng	5000
+活度系数	huo du xi shu	5000
+活性中心	huo xing zhong xin	5000
+活性位点	huo xing wei dian	5000
+活性氧化铝	huo xing yang hua lv	5000
+活性聚合	huo xing ju he	5000
+活泼金属	huo po jin shu	5000
+流动化学	liu dong hua xue	5000
+流动相	liu dong xiang	5000
+测不准原理	ce bu zhun yuan li	5000
+浓度商	nong du shang	5000
+浓溶液	nong rong ye	5000
+浓盐酸	nong yan suan	5000
+浓硝酸	nong xiao suan	5000
+消去反应	xiao qu fan ying	5000
+消除反应	xiao chu fan ying	5000
+液质联用	ye zhi lian yong	5000
+淀粉指示剂	dian fen zhi shi ji	5000
+淬灭	cui mie	5000
+淬灭反应	cui mie fan ying	5000
+湿法冶金	shi fa ye jin	5000
+溴乙烷	xiu yi wan	5000
+溴代	xiu dai	5000
+溴化物	xiu hua wu	5000
+溴化钾	xiu hua jia	5000
+溴化银	xiu hua yin	5000
+溴甲烷	xiu jia wan	5000
+溴甲酚绿	xiu jia fen lv	5000
+溴百里酚蓝	xiu bai li fen lan	5000
+溴离子	xiu li zi	5000
+溴苯	xiu ben	5000
+溴酸	xiu suan	5000
+溶度积	rong du ji	5000
+溶度积常数	rong du ji chang shu	5000
+溶液聚合	rong ye ju he	5000
+溶解平衡	rong jie ping heng	5000
+滤渣	lv zha	5000
+滤饼	lv bing	5000
+滴定分析	di ding fen xi	5000
+滴定曲线	di ding qu xian	5000
+滴定突跃	di ding tu yue	5000
+滴定管	di ding guan	5000
+滴定终点	di ding zhong dian	5000
+滴液漏斗	di ye lou dou	5000
+漂白液	piao bai ye	5000
+潮解	chao jie	5000
+澄清石灰水	cheng qing shi hui shui	5000
+激发态	ji fa tai	5000
+火法冶金	huo fa ye jin	5000
+炔丙基	que bing ji	5000
+炔烃	que ting	5000
+点击化学	dian ji hua xue	5000
+点样	dian yang	5000
+烟酰胺	yan xian an	5000
+热分解法	re fen jie fa	5000
+热力学第一定律	re li xue di yi ding lv	5000
+热力学第三定律	re li xue di san ding lv	5000
+热力学第二定律	re li xue di er ding lv	5000
+热力学能	re li xue neng	5000
+热化学方程式	re hua xue fang cheng shi	5000
+热过滤	re guo lv	5000
+热还原法	re huan yuan fa	5000
+热重分析	re zhong fen xi	5000
+烯丙基	xi bing ji	5000
+烯丙基溴	xi bing ji xiu	5000
+烯烃复分解	xi ting fu fen jie	5000
+烯醇式	xi chun shi	5000
+烯醇负离子	xi chun fu li zi	5000
+烯醇醚	xi chun mi	5000
+烷基化	wan ji hua	5000
+烷氧基	wan yang ji	5000
+烷烃	wan ting	5000
+焓变	han bian	5000
+焦硫酸	jiao liu suan	5000
+焦磷酸	jiao lin suan	5000
+焰色试验	yan se shi yan	5000
+煤的气化	mei de qi hua	5000
+煤的液化	mei de ye hua	5000
+熊田偶联	xiong tian ou lian	5000
+熔点仪	rong dian yi	5000
+熟石灰	shu shi hui	5000
+熟石膏	shu shi gao	5000
+燃烧热	ran shao re	5000
+物料守恒	wu liao shou heng	5000
+物理吸附	wu li xi fu	5000
+物质的量浓度	wu zhi de liang nong du	5000
+牺牲阳极	xi sheng yang ji	5000
+状态函数	zhuang tai han shu	5000
+狄克曼缩合	di ke man suo he	5000
+狄尔斯-阿尔德反应	di er si a er de fan ying	5000
+猝灭	cu mie	5000
+王水	wang shui	5000
+环丁烷	huan ding wan	5000
+环丁砜	huan ding feng	5000
+环丙烷	huan bing wan	5000
+环加成	huan jia cheng	5000
+环己基	huan ji ji	5000
+环己烯	huan ji xi	5000
+环己烷	huan ji wan	5000
+环己酮	huan ji tong	5000
+环己醇	huan ji chun	5000
+环庚三烯	huan geng san xi	5000
+环张力	huan zhang li	5000
+环戊二烯	huan wu er xi	5000
+环戊烷	huan wu wan	5000
+环戊酮	huan wu tong	5000
+环氧丙烷	huan yang bing wan	5000
+环氧乙烷	huan yang yi wan	5000
+环氧化	huan yang hua	5000
+环氧化物	huan yang hua wu	5000
+环烯烃	huan xi ting	5000
+环烷烃	huan wan ting	5000
+环糊精	huan hu jing	5000
+玻尔兹曼常数	bo er zi man chang shu	5000
+玻尔半径	bo er ban jing	5000
+玻尔模型	bo er mo xing	5000
+玻璃化转变	bo li hua zhuan bian	5000
+玻璃化转变温度	bo li hua zhuan bian wen du	5000
+玻璃棒	bo li bang	5000
+玻璃电极	bo li dian ji	5000
+珀金反应	po jin fan ying	5000
+班氏试剂	ban shi shi ji	5000
+球形冷凝管	qiu xing leng ning guan	5000
+理想气体	li xiang qi ti	5000
+理想气体状态方程	li xiang qi ti zhuang tai fang cheng	5000
+理想溶液	li xiang rong ye	5000
+理论塔板数	li lun ta ban shu	5000
+琥珀酸	hu po suan	5000
+琼斯氧化	qiong si yang hua	5000
+琼斯试剂	qiong si shi ji	5000
+瑞佛马斯基反应	rui fu ma si ji fan ying	5000
+瑞穆尔-蒂曼反应	rui mu er di man fan ying	5000
+瓦尔登翻转	wa er deng fan zhuan	5000
+瓦格纳-梅尔外因重排	wa ge na mei er wai yin chong pai	5000
+甘汞电极	gan gong dian ji	5000
+甘露糖	gan lu tang	5000
+生化需氧量	sheng hua xu yang liang	5000
+生成热	sheng cheng re	5000
+生成焓	sheng cheng han	5000
+生成物	sheng cheng wu	5000
+生物素	sheng wu su	5000
+生石膏	sheng shi gao	5000
+生育酚	sheng yu fen	5000
+甲基丙烯酸甲酯	jia ji bing xi suan jia zhi	5000
+甲基叔丁基醚	jia ji shu ding ji mi	5000
+甲基橙	jia ji cheng	5000
+甲基红	jia ji hong	5000
+甲壳素	jia ke su	5000
+甲壳素	jia qiao su	5000
+甲氧基	jia yang ji	5000
+甲硫氨酸	jia liu an suan	5000
+甲磺酰基	jia huang xian ji	5000
+甲磺酸	jia huang suan	5000
+甲酰基	jia xian ji	5000
+甲酸甲酯	jia suan jia zhi	5000
+甲醇钠	jia chun na	5000
+电位滴定	dian wei di ding	5000
+电催化	dian cui hua	5000
+电化学腐蚀	dian hua xue fu shi	5000
+电喷雾	dian pen wu	5000
+电喷雾电离	dian pen wu dian li	5000
+电子云	dian zi yun	5000
+电子亚层	dian zi ya ceng	5000
+电子亲和能	dian zi qin he neng	5000
+电子层	dian zi ceng	5000
+电子排布	dian zi pai bu	5000
+电子排布式	dian zi pai bu shi	5000
+电子效应	dian zi xiao ying	5000
+电子跃迁	dian zi yue qian	5000
+电子轰击	dian zi hong ji	5000
+电子顺磁共振	dian zi shun ci gong zhen	5000
+电感耦合等离子体	dian gan ou he deng li zi ti	5000
+电极反应式	dian ji fan ying shi	5000
+电极材料	dian ji cai liao	5000
+电极电势	dian ji dian shi	5000
+电渗	dian shen	5000
+电环化	dian huan hua	5000
+电环化反应	dian huan hua fan ying	5000
+电离常数	dian li chang shu	5000
+电离度	dian li du	5000
+电离能	dian li neng	5000
+电荷守恒	dian he shou heng	5000
+电解池	dian jie chi	5000
+电解法	dian jie fa	5000
+电解质溶液	dian jie zhi rong ye	5000
+白色固体	bai se gu ti	5000
+白色沉淀	bai se chen dian	5000
+皂化反应	zao hua fan ying	5000
+盐效应	yan xiao ying	5000
+盖斯定律	gai si ding lv	5000
+直形冷凝管	zhi xing leng ning guan	5000
+直立键	zhi li jian	5000
+相对分子质量	xiang dui fen zi zhi liang	5000
+相对原子质量	xiang dui yuan zi zhi liang	5000
+相对构型	xiang dui gou xing	5000
+相对标准偏差	xiang dui biao zhun pian cha	5000
+相对误差	xiang dui wu cha	5000
+相平衡	xiang ping heng	5000
+相律	xiang lv	5000
+相转移催化	xiang zhuan yi cui hua	5000
+相转移催化剂	xiang zhuan yi cui hua ji	5000
+石墨烯	shi mo xi	5000
+石棉网	shi mian wang	5000
+石油裂化	shi you lie hua	5000
+石油醚	shi you mi	5000
+石灰乳	shi hui ru	5000
+石蕊试纸	shi rui shi zhi	5000
+砂芯漏斗	sha xin lou dou	5000
+砖红色沉淀	zhuan hong se chen dian	5000
+砷化氢	shen hua qing	5000
+硅氧烷	gui yang wan	5000
+硅胶柱	gui jiao zhu	5000
+硅酸根	gui suan gen	5000
+硅酸盐材料	gui suan yan cai liao	5000
+硅酸钠	gui suan na	5000
+硝基化合物	xiao ji hua he wu	5000
+硝基甲烷	xiao ji jia wan	5000
+硝酸根	xiao suan gen	5000
+硝酸根离子	xiao suan gen li zi	5000
+硝酸钠	xiao suan na	5000
+硝酸钾	xiao suan jia	5000
+硝酸铜	xiao suan tong	5000
+硝酸银	xiao suan yin	5000
+硫代硫酸钠	liu dai liu suan na	5000
+硫化亚铁	liu hua ya tie	5000
+硫化钠	liu hua na	5000
+硫化铜	liu hua tong	5000
+硫叶立德	liu ye li de	5000
+硫氰化钾	liu qing hua jia	5000
+硫氰根	liu qing gen	5000
+硫氰酸	liu qing suan	5000
+硫离子	liu li zi	5000
+硫胺素	liu an su	5000
+硫酰氯	liu xian lv	5000
+硫酸根	liu suan gen	5000
+硫酸根离子	liu suan gen li zi	5000
+硫酸氢根	liu suan qing gen	5000
+硫酸氢钠	liu suan qing na	5000
+硫酸钙	liu suan gai	5000
+硫酸钡	liu suan bei	5000
+硫酸铁	liu suan tie	5000
+硫酸铝	liu suan lv	5000
+硫酸锌	liu suan xin	5000
+硫醚	liu mi	5000
+硬铝	ying lv	5000
+硼氢化	peng qing hua	5000
+硼氢化氧化	peng qing hua yang hua	5000
+硼氢化钠	peng qing hua na	5000
+硼烷	peng wan	5000
+碎片离子	sui pian li zi	5000
+碘代	dian dai	5000
+碘仿反应	dian fang fan ying	5000
+碘化氢	dian hua qing	5000
+碘化物	dian hua wu	5000
+碘化钾	dian hua jia	5000
+碘化银	dian hua yin	5000
+碘单质	dian dan zhi	5000
+碘甲烷	dian jia wan	5000
+碘苯	dian ben	5000
+碘量法	dian liang fa	5000
+碰撞理论	peng zhuang li lun	5000
+碱催化	jian cui hua	5000
+碱土金属	jian tu jin shu	5000
+碱基对	jian ji dui	5000
+碱式滴定管	jian shi di ding guan	5000
+碱式盐	jian shi yan	5000
+碱性氧化物	jian xing yang hua wu	5000
+碳正离子	tan zheng li zi	5000
+碳氢活化	tan qing huo hua	5000
+碳氢键活化	tan qing jian huo hua	5000
+碳自由基	tan zi you ji	5000
+碳负离子	tan fu li zi	5000
+碳酸二甲酯	tan suan er jia zhi	5000
+碳酸根	tan suan gen	5000
+碳酸根离子	tan suan gen li zi	5000
+碳酸氢根	tan suan qing gen	5000
+碳酸氢盐	tan suan qing yan	5000
+碳酸氢铵	tan suan qing an	5000
+碳酸酯	tan suan zhi	5000
+碳酸钡	tan suan bei	5000
+碳酸钾	tan suan jia	5000
+碳酸铵	tan suan an	5000
+磁力搅拌器	ci li jiao ban qi	5000
+磁量子数	ci liang zi shu	5000
+磨口	mo kou	5000
+磨口塞	mo kou sai	5000
+磷光	lin guang	5000
+磷化氢	lin hua qing	5000
+磷化物	lin hua wu	5000
+磷叶立德	lin ye li de	5000
+磷酸二氢根	lin suan er qing gen	5000
+磷酸二酯键	lin suan er zhi jian	5000
+磷酸根	lin suan gen	5000
+磷酸氢根	lin suan qing gen	5000
+磷酸钙	lin suan gai	5000
+磷酸钠	lin suan na	5000
+磺酰基	huang xian ji	5000
+磺酰氯	huang xian lv	5000
+磺酰胺	huang xian an	5000
+磺酸基	huang suan ji	5000
+磺酸酯	huang suan zhi	5000
+离去基	li qu ji	5000
+离去基团	li qu ji tuan	5000
+离域键	li yu jian	5000
+离子交换树脂	li zi jiao huan shu zhi	5000
+离子半径	li zi ban jing	5000
+离子强度	li zi qiang du	5000
+离子方程式	li zi fang cheng shi	5000
+离子晶体	li zi jing ti	5000
+离子色谱	li zi se pu	5000
+积分面积	ji fen mian ji	5000
+称量瓶	cheng liang ping	5000
+称量纸	cheng liang zhi	5000
+移液枪	yi ye qiang	5000
+移液管	yi ye guan	5000
+稀土元素	xi tu yuan su	5000
+稀有气体	xi you qi ti	5000
+稀溶液	xi rong ye	5000
+稀盐酸	xi yan suan	5000
+稀硝酸	xi xiao suan	5000
+稀硫酸	xi liu suan	5000
+稠环芳烃	chou huan fang ting	5000
+稳态近似	wen tai jin si	5000
+穴醚	xue mi	5000
+空白试验	kong bai shi yan	5000
+空间位阻	kong jian wei zu	5000
+立体专一性	li ti zhuan yi xing	5000
+立体化学	li ti hua xue	5000
+立体异构	li ti yi gou	5000
+立体异构体	li ti yi gou ti	5000
+立体效应	li ti xiao ying	5000
+立体选择性	li ti xuan ze xing	5000
+竞争性抑制	jing zheng xing yi zhi	5000
+端基异构	duan ji yi gou	5000
+第一电离能	di yi dian li neng	5000
+等压	deng ya	5000
+等容	deng rong	5000
+等当点	deng dang dian	5000
+等温	deng wen	5000
+等电点	deng dian dian	5000
+简并度	jian bing du	5000
+管式炉	guan shi lu	5000
+米氏常数	mi shi chang shu	5000
+米氏方程	mi shi fang cheng	5000
+类金属	lei jin shu	5000
+粉末衍射	fen mo yan she	5000
+粗产物	cu chan wu	5000
+粗品	cu pin	5000
+精馏塔	jing liu ta	5000
+糖苷	tang gan	5000
+糖苷键	tang gan jian	5000
+糖酵解	tang jiao jie	5000
+糠醛	kang quan	5000
+系统误差	xi tong wu cha	5000
+系间窜越	xi jian cuan yue	5000
+索氏提取器	suo shi ti qu qi	5000
+紫外光谱	zi wai guang pu	5000
+紫外可见光谱	zi wai ke jian guang pu	5000
+紫外可见分光光度法	zi wai ke jian fen guang guang du fa	5000
+红外光谱	hong wai guang pu	5000
+红褐色沉淀	hong he se chen dian	5000
+纯净物	chun jing wu	5000
+纳米粒子	na mi li zi	5000
+纳米颗粒	na mi ke li	5000
+纸层析	zhi ceng xi	5000
+纸色谱	zhi se pu	5000
+纽曼投影式	niu man tou ying shi	5000
+组合化学	zu he hua xue	5000
+组氨酸	zu an suan	5000
+细口瓶	xi kou ping	5000
+结构化学	jie gou hua xue	5000
+结构简式	jie gou jian shi	5000
+给电子基	gei dian zi ji	5000
+给电子基团	gei dian zi ji tuan	5000
+络合滴定	luo he di ding	5000
+络合物	luo he wu	5000
+绝对构型	jue dui gou xing	5000
+绝对误差	jue dui wu cha	5000
+统计热力学	tong ji re li xue	5000
+维蒂希反应	wei di xi fan ying	5000
+维蒂希试剂	wei di xi shi ji	5000
+绿色化学	lv se hua xue	5000
+缓冲容量	huan chong rong liang	5000
+缓冲对	huan chong dui	5000
+缓冲溶液	huan chong rong ye	5000
+缩合反应	suo he fan ying	5000
+缩聚反应	suo ju fan ying	5000
+缩酮	suo tong	5000
+缬氨酸	xie an suan	5000
+罗宾逊环化	luo bin xun huan hua	5000
+罗森蒙德还原	luo sen meng de huan yuan	5000
+置信区间	zhi xin qu jian	5000
+置换反应	zhi huan fan ying	5000
+羟醛反应	qiang quan fan ying	5000
+羟醛缩合	qiang quan suo he	5000
+羰基配合物	tang ji pei he wu	5000
+耦合常数	ou he chang shu	5000
+聚丙烯腈	ju bing xi jing	5000
+聚乙二醇	ju yi er chun	5000
+聚乳酸	ju ru suan	5000
+聚二甲基硅氧烷	ju er jia ji gui yang wan	5000
+聚合反应	ju he fan ying	5000
+聚合度	ju he du	5000
+聚对苯二甲酸乙二醇酯	ju dui ben er jia suan yi er chun zhi	5000
+聚沉	ju chen	5000
+聚甲基丙烯酸甲酯	ju jia ji bing xi suan jia zhi	5000
+聚酰亚胺	ju xian ya an	5000
+背面进攻	bei mian jin gong	5000
+胞嘧啶	bao mi ding	5000
+胱氨酸	guang an suan	5000
+胶体化学	jiao ti hua xue	5000
+胶头滴管	jiao tou di guan	5000
+胸腺嘧啶	xiong xian mi ding	5000
+胸苷	xiong gan	5000
+能层	neng ceng	5000
+能斯特方程	neng si te fang cheng	5000
+能级交错	neng ji jiao cuo	5000
+能量最低原理	neng liang zui di yuan li	5000
+脂环烃	zhi huan ting	5000
+脂肪烃	zhi fang ting	5000
+脯氨酸	pu an suan	5000
+脱保护	tuo bao hu	5000
+脱氧核糖	tuo yang he tang	5000
+脱氧核糖核酸	tuo yang he tang he suan	5000
+脱羧	tuo suo	5000
+脲醛树脂	niao quan shu zhi	5000
+腺嘌呤	xian piao ling	5000
+自偶联	zi ou lian	5000
+自催化	zi cui hua	5000
+自发反应	zi fa fan ying	5000
+自发过程	zi fa guo cheng	5000
+自旋耦合	zi xuan ou he	5000
+自旋量子数	zi xuan liang zi shu	5000
+自洽场	zi qia chang	5000
+自由基加成	zi you ji jia cheng	5000
+自由基取代	zi you ji qu dai	5000
+自由基聚合	zi you ji ju he	5000
+自由能	zi you neng	5000
+臭氧分解	chou yang fen jie	5000
+臭氧化	chou yang hua	5000
+船式构象	chuan shi gou xiang	5000
+色散力	se san li	5000
+色谱图	se pu tu	5000
+色谱柱	se pu zhu	5000
+色酮	se tong	5000
+芒硝	mang xiao	5000
+芳基化	fang ji hua	5000
+芳杂环	fang za huan	5000
+芳香亲核取代	fang xiang qin he qu dai	5000
+芳香亲电取代	fang xiang qin dian qu dai	5000
+芴甲氧羰基	wu jia yang tang ji	5000
+苄基氯	bian ji lv	5000
+苄基溴	bian ji xiu	5000
+苄氧羰基	bian yang tang ji	5000
+苏氨酸	su an suan	5000
+苛性钠	ke xing na	5000
+苛性钾	ke xing jia	5000
+苦味酸	ku wei suan	5000
+苯丙氨酸	ben bing an suan	5000
+苯乙炔	ben yi que	5000
+苯乙酮	ben yi tong	5000
+苯并三唑	ben bing san zuo	5000
+苯并呋喃	ben bing fu nan	5000
+苯并咪唑	ben bing mi zuo	5000
+苯并噻吩	ben bing sai fen	5000
+苯炔	ben que	5000
+苯甲腈	ben jia jing	5000
+苯甲酰基	ben jia xian ji	5000
+苯甲酰氯	ben jia xian lv	5000
+苯甲醇	ben jia chun	5000
+苯甲醚	ben jia mi	5000
+苯甲醛	ben jia quan	5000
+苯磺酸	ben huang suan	5000
+苯醌	ben kun	5000
+茂金属	mao jin shu	5000
+范德华力	fan de hua li	5000
+范德华半径	fan de hua ban jing	5000
+范特霍夫方程	fan te huo fu fang cheng	5000
+草酰氯	cao xian lv	5000
+草酸根	cao suan gen	5000
+荧光光谱	ying guang guang pu	5000
+萘胺	nai an	5000
+萜类	tie lei	5000
+蒸发皿	zheng fa min	5000
+蒸发结晶	zheng fa jie jing	5000
+蒸馏头	zheng liu tou	5000
+蒸馏烧瓶	zheng liu shao ping	5000
+蒽醌	en kun	5000
+蓝色沉淀	lan se chen dian	5000
+薄层层析	bao ceng ceng xi	5000
+薄层层析	bo ceng ceng xi	5000
+薄层色谱	bao ceng se pu	5000
+薄层色谱	bo ceng se pu	5000
+薄荷酮	bo he tong	5000
+薄荷醇	bo he chun	5000
+薗头偶联	yuan tou ou lian	5000
+薛定谔方程	xue ding e fang cheng	5000
+蛇形冷凝管	she xing leng ning guan	5000
+蝶啶	die ding	5000
+螯合	ao he	5000
+螯合剂	ao he ji	5000
+螯合效应	ao he xiao ying	5000
+螯合物	ao he wu	5000
+血红素	xue hong su	5000
+血红蛋白	xue hong dan bai	5000
+表观活化能	biao guan huo hua neng	5000
+表面化学	biao mian hua xue	5000
+表面皿	biao mian min	5000
+裂分	lie fen	5000
+西格玛迁移	xi ge ma qian yi	5000
+西格玛重排	xi ge ma chong pai	5000
+西格玛键	xi ge ma jian	5000
+视黄醇	shi huang chun	5000
+角张力	jiao zhang li	5000
+角量子数	jiao liang zi shu	5000
+解离常数	jie li chang shu	5000
+试管刷	shi guan shua	5000
+诱导效应	you dao xiao ying	5000
+贝克曼重排	bei ke man chong pai	5000
+贝塔折叠	bei ta zhe die	5000
+贝塔衰变	bei ta shuai bian	5000
+贝里斯-希尔曼反应	bei li si xi er man fan ying	5000
+负极材料	fu ji cai liao	5000
+质子守恒	zhi zi shou heng	5000
+质子碱	zhi zi jian	5000
+质子酸	zhi zi suan	5000
+质谱仪	zhi pu yi	5000
+质谱法	zhi pu fa	5000
+质量分数	zhi liang fen shu	5000
+质量守恒	zhi liang shou heng	5000
+费托合成	fei tuo he cheng	5000
+费歇尔吲哚合成	fei xie er yin duo he cheng	5000
+费歇尔投影式	fei xie er tou ying shi	5000
+费歇尔酯化	fei xie er zhi hua	5000
+赫克反应	he ke fan ying	5000
+趁热过滤	chen re guo lv	5000
+超临界流体	chao lin jie liu ti	5000
+超共轭	chao gong e	5000
+超共轭效应	chao gong e xiao ying	5000
+超声清洗器	chao sheng qing xi qi	5000
+超强酸	chao qiang suan	5000
+超氧化物	chao yang hua wu	5000
+超电势	chao dian shi	5000
+路易斯碱	lu yi si jian	5000
+路易斯酸	lu yi si suan	5000
+转金属化	zhuan jin shu hua	5000
+软硬酸碱	ruan ying suan jian	5000
+软脂酸	ruan zhi suan	5000
+辅因子	fu yin zi	5000
+辛烷	xin wan	5000
+迁移数	qian yi shu	5000
+过氧化钠	guo yang hua na	5000
+过渡元素	guo du yuan su	5000
+过渡态	guo du tai	5000
+过渡态理论	guo du tai li lun	5000
+过渡金属	guo du jin shu	5000
+过电位	guo dian wei	5000
+过硫酸钾	guo liu suan jia	5000
+过硫酸铵	guo liu suan an	5000
+过程函数	guo cheng han shu	5000
+过饱和溶液	guo bao he rong ye	5000
+迈克尔加成	mai ke er jia cheng	5000
+迈克尔受体	mai ke er shou ti	5000
+返滴定	fan di ding	5000
+还原产物	huan yuan chan wu	5000
+还原剂	huan yuan ji	5000
+还原反应	huan yuan fan ying	5000
+还原消除	huan yuan xiao chu	5000
+还原糖	huan yuan tang	5000
+还原胺化	huan yuan an hua	5000
+连二亚硫酸钠	lian er ya liu suan na	5000
+逆合成	ni he cheng	5000
+逆合成分析	ni he cheng fen xi	5000
+透射比	tou she bi	5000
+透射电子显微镜	tou she dian zi xian wei jing	5000
+透射电镜	tou she dian jing	5000
+逐步聚合	zhu bu ju he	5000
+速控步	su kong bu	5000
+速率常数	su lv chang shu	5000
+速率方程	su lv fang cheng	5000
+邻二甲苯	lin er jia ben	5000
+邻位交叉	lin wei jiao cha	5000
+邻基参与	lin ji can yu	5000
+邻对位定位基	lin dui wei ding wei ji	5000
+邻苯二甲酰亚胺	lin ben er jia xian ya an	5000
+邻苯二甲酸	lin ben er jia suan	5000
+邻苯二甲酸酐	lin ben er jia suan gan	5000
+邻苯二酚	lin ben er fen	5000
+配位体	pei wei ti	5000
+配位化合物	pei wei hua he wu	5000
+配位原子	pei wei yuan zi	5000
+配位场理论	pei wei chang li lun	5000
+配位数	pei wei shu	5000
+配位滴定	pei wei di ding	5000
+配位聚合	pei wei ju he	5000
+配位键	pei wei jian	5000
+配体	pei ti	5000
+配体交换	pei ti jiao huan	5000
+配分函数	pei fen han shu	5000
+配合物	pei he wu	5000
+配平	pei ping	5000
+酒精喷灯	jiu jing pen deng	5000
+酮式-烯醇式互变异构	tong shi xi chun shi hu bian yi gou	5000
+酯交换	zhi jiao huan	5000
+酯化反应	zhi hua fan ying	5000
+酰亚胺	xian ya an	5000
+酰基化	xian ji hua	5000
+酰氧基	xian yang ji	5000
+酶催化	mei cui hua	5000
+酸催化	suan cui hua	5000
+酸度系数	suan du xi shu	5000
+酸式滴定管	suan shi di ding guan	5000
+酸式盐	suan shi yan	5000
+酸性氧化物	suan xing yang hua wu	5000
+酸碱中和	suan jian zhong he	5000
+酸碱性	suan jian xing	5000
+酸碱指示剂	suan jian zhi shi ji	5000
+酸碱滴定	suan jian di ding	5000
+醋酸根	cu suan gen	5000
+醋酸酐	cu suan gan	5000
+醋酸钠	cu suan na	5000
+重叠式	chong die shi	5000
+重均分子量	zhong jun fen zi liang	5000
+重排反应	chong pai fan ying	5000
+重氮化	chong dan hua	5000
+重氮化反应	chong dan hua fan ying	5000
+重氮基	chong dan ji	5000
+重氮甲烷	chong dan jia wan	5000
+重氮盐	chong dan yan	5000
+重现性	chong xian xing	5000
+重结晶	chong jie jing	5000
+重量分析	zhong liang fen xi	5000
+重量法	zhong liang fa	5000
+重铬酸根	zhong ge suan gen	5000
+重铬酸钾	chong ge suan jia	5000
+重铬酸钾	zhong ge suan jia	5000
+重铬酸钾法	zhong ge suan jia fa	5000
+量子产率	liang zi chan lv	5000
+量子化学	liang zi hua xue	5000
+量子数	liang zi shu	5000
+量子点	liang zi dian	5000
+金属性	jin shu xing	5000
+金属晶体	jin shu jing ti	5000
+金属有机化合物	jin shu you ji hua he wu	5000
+金属有机框架	jin shu you ji kuang jia	5000
+金属活动性顺序	jin shu huo dong xing shun xu	5000
+钙盐	gai yan	5000
+钙钛矿	gai tai kuang	5000
+钝化基团	dun hua ji tuan	5000
+钠离子	na li zi	5000
+钡离子	bei li zi	5000
+钯催化	ba cui hua	5000
+钯炭	ba tan	5000
+钯碳	ba tan	5000
+钻穿效应	zuan chuan xiao ying	5000
+钼酸铵	mu suan an	5000
+钾离子	jia li zi	5000
+铁架台	tie jia tai	5000
+铁氰化钾	tie qing hua jia	5000
+铁盐	tie yan	5000
+铁磁性	tie ci xing	5000
+铁离子	tie li zi	5000
+铃木偶联	ling mu ou lian	5000
+铃木反应	ling mu fan ying	5000
+铅蓄电池	qian xu dian chi	5000
+铜催化	tong cui hua	5000
+铝热剂	lv re ji	5000
+铝热反应	lv re fan ying	5000
+铬酐	ge gan	5000
+铬酸	ge suan	5000
+铬酸根	ge suan gen	5000
+铬酸洗液	ge suan xi ye	5000
+铬酸钾	ge suan jia	5000
+铬黑	ge hei	5000
+铵根	an gen	5000
+铵根离子	an gen li zi	5000
+铵盐	an yan	5000
+银量法	yin liang fa	5000
+银镜反应	yin jing fan ying	5000
+链反应	lian fan ying	5000
+链增长	lian zeng zhang	5000
+链式反应	lian shi fan ying	5000
+链式聚合	lian shi ju he	5000
+链引发	lian yin fa	5000
+链终止	lian zhong zhi	5000
+链转移	lian zhuan yi	5000
+锌离子	xin li zi	5000
+锌锰电池	xin meng dian chi	5000
+锥形瓶	zhui xing ping	5000
+键焓	jian han	5000
+键线式	jian xian shi	5000
+键能	jian neng	5000
+锯架式	ju jia shi	5000
+锰酸钾	meng suan jia	5000
+镁离子	mei li zi	5000
+镍催化	nie cui hua	5000
+镧系收缩	lan xi shou suo	5000
+长颈漏斗	chang jing lou dou	5000
+间二甲苯	jian er jia ben	5000
+间位定位基	jian wei ding wei ji	5000
+间苯二酚	jian ben er fen	5000
+防倒吸	fang dao xi	5000
+防暴沸	fang bao fei	5000
+阳离子聚合	yang li zi ju he	5000
+阴极保护	yin ji bao hu	5000
+阴离子聚合	yin li zi ju he	5000
+阻聚剂	zu ju ji	5000
+阿伏伽德罗常数	a fu ga de luo chang shu	5000
+阿伏伽德罗常数	a fu jia de luo chang shu	5000
+阿伦尼乌斯公式	a lun ni wu si gong shi	5000
+阿伦尼乌斯方程	a lun ni wu si fang cheng	5000
+阿佩尔反应	a pei er fan ying	5000
+阿尔法螺旋	a er fa luo xuan	5000
+阿尔法衰变	a er fa shuai bian	5000
+陈化	chen hua	5000
+除杂	chu za	5000
+随机误差	sui ji wu cha	5000
+难溶于水	nan rong yu shui	5000
+集气瓶	ji qi ping	5000
+零点能	ling dian neng	5000
+零级反应	ling ji fan ying	5000
+雷尼镍	lei ni nie	5000
+雾霾	wu mai	5000
+霍夫曼消除	huo fu man xiao chu	5000
+霍夫曼规则	huo fu man gui ze	5000
+霍夫曼重排	huo fu man chong pai	5000
+霍夫曼降解	huo fu man jiang jie	5000
+霍纳-沃兹沃思-埃蒙斯反应	huo na wo zi wo si ai meng si fan ying	5000
+非对映体	fei dui ying ti	5000
+非对映异构体	fei dui ying yi gou ti	5000
+非对映选择性	fei dui ying xuan ze xing	5000
+非晶体	fei jing ti	5000
+非极性分子	fei ji xing fen zi	5000
+非极性键	fei ji xing jian	5000
+非电解质	fei dian jie zhi	5000
+非竞争性抑制	fei jing zheng xing yi zhi	5000
+非还原糖	fei huan yuan tang	5000
+非金属性	fei jin shu xing	5000
+非键轨道	fei jian gui dao	5000
+面心立方	mian xin li fang	5000
+顶空进样	ding kong jin yang	5000
+顺丁橡胶	shun ding xiang jiao	5000
+顺丁烯二酸	shun ding xi er suan	5000
+顺丁烯二酸酐	shun ding xi er suan gan	5000
+顺反异构	shun fan yi gou	5000
+顺反异构体	shun fan yi gou ti	5000
+顺式加成	shun shi jia cheng	5000
+顺式消除	shun shi xiao chu	5000
+顺磁共振	shun ci gong zhen	5000
+顺磁性	shun ci xing	5000
+频哪醇重排	pin na chun chong pai	5000
+饱和溶液	bao he rong ye	5000
+饱和烃	bao he ting	5000
+饱和蒸气压	bao he zheng qi ya	5000
+馏出液	liu chu ye	5000
+香豆素	xiang dou su	5000
+马弗炉	ma fu lu	5000
+马来酸	ma lai suan	5000
+马来酸酐	ma lai suan gan	5000
+马氏规则	ma shi gui ze	5000
+验满	yan man	5000
+高分子化合物	gao fen zi hua he wu	5000
+高分辨质谱	gao fen bian zhi pu	5000
+高效液相色谱	gao xiao ye xiang se pu	5000
+高氯酸	gao lv suan	5000
+高氯酸根	gao lv suan gen	5000
+高碘酸	gao dian suan	5000
+高聚物	gao ju wu	5000
+高自旋	gao zi xuan	5000
+高锰酸根	gao meng suan gen	5000
+高锰酸钾法	gao meng suan jia fa	5000
+鸟嘌呤	niao piao ling	5000
+黄鸣龙还原	huang ming long huan yuan	5000
+齐格勒-纳塔催化剂	qi ge lei na ta cui hua ji	5000
+龙脑	long nao	5000
+放热	fang re	4960
+羰基	tang ji	4960
+庚烷	geng wan	4894
+内界	nei jie	4876
+络盐	luo yan	4612
+铝离子	lv li zi	4588
+亲核性	qin he xing	4564
+质荷比	zhi he bi	4558
+膦酸酯	lin suan zhi	4510
+共轭	gong e	4495
+碳化物	tan hua wu	4435
+胺化	an hua	4414
+脱氢	tuo qing	4285
+电负性	dian fu xing	4228
+谷胱甘肽	gu guang gan tai	4195
+氯苯	lv ben	4099
+醛糖	quan tang	4099
+叔胺	shu an	4066
+酞菁	tai jing	3970
+氩气	ya qi	3945
+酮糖	tong tang	3886
+氘代	dao dai	3880
+仲胺	zhong an	3832
+吡咯	bi luo	3796
+酰氯	xian lv	3664
+伯胺	bo an	3604
+光伏	guang fu	3508
+金属键	jin shu jian	3370
+甲胺	jia an	3358
+铜盐	tong yan	3304
+碱金属	jian jin shu	3300
+氯化氢	lv hua qing	3285
+三相点	san xiang dian	3160
+酚酞	fen tai	3115
+偶联	ou lian	2980
+白磷	bai lin	2885
+钨酸	wu suan	2878
+折光率	zhe guang lv	2730
+离子积	li zi ji	2680
+量筒	liang tong	2674
+试剂瓶	shi ji ping	2483
+同面	tong mian	2326
+丁烯	ding xi	2260
+芳香烃	fang xiang ting	2075
+碘离子	dian li zi	1912
+脯氨酸	fu an suan	1840
+蒸气压	zheng qi ya	1750
+电离平衡	dian li ping heng	1650
+氢化钠	qing hua na	1636
+联氨	lian an	1516
+排水法	pai shui fa	1510
+离子键	li zi jian	1470
+收率	shou lv	1433
+镧系	lan xi	1433
+氯酸	lv suan	1430
+缩环	suo huan	1390
+异丁烷	yi ding wan	1298
+酰胺基	xian an ji	1286
+硬酸	ying suan	1284
+氰化钠	qing hua na	1280
+羟胺	qiang an	1246
+硫脲	liu niao	1234
+三萜	san tie	1210
+脱卤	tuo lu	1162
+羰基化	tang ji hua	1160
+单萜	dan tie	1138
+氧化膦	yang hua lin	958
+丁酮	ding tong	899
+氰化氢	qing hua qing	800
+价电子	jia dian zi	680
+二氧化硒	er yang hua xi	652
+验纯	yan chun	617
+盐桥	yan qiao	541
+试管夹	shi guan jia	535
+焰色反应	yan se fan ying	501
+丁炔	ding que	490
+冠醚	guan mi	490
+二糖	er tang	424
+单宁	dan ning	369
+抽滤	chou lv	340
+溴化氢	xiu hua qing	330
+液溴	ye xiu	326
+润洗	run xi	274
+烯醇	xi chun	264
+炔基	que ji	247
+二噁烷	er e wan	220
+保护基	bao hu ji	220
+异噁唑	yi e zuo	220
+恒重	heng zhong	220
+油状物	you zhuang wu	220
+溶解热	rong jie re	220
+线性范围	xian xing fan wei	220
+费林试剂	fei lin shi ji	220
+阿伏加德罗常数	a fu jia de luo chang shu	220
+蓝矾	lan fan	210
+狄尔斯阿尔德反应	di er si a er de fan ying	172
+谷氨酰胺	gu an xian an	142
+铜离子	tong li zi	130
+甾醇	zai chun	112
+正极材料	zheng ji cai liao	108
+鸟苷	niao gan	104
+缩醛	suo quan	103
+鏻盐	lin yan	103
+噁唑	e zuo	102
+鎓盐	weng yan	102
+锕系	a xi	102
+顺旋	shun xuan	102
+玻尔兹曼分布	bo er zi man fen bu	101

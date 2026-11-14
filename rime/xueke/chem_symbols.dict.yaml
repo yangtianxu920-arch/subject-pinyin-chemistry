@@ -1,0 +1,383 @@
+# 学科输入法 · 符号 / 单位 / 化学式
+# 本文件由 tools/build.py 自动生成，请修改 data/ 下的源表后重新生成。
+---
+name: chem_symbols
+version: "2026-11-14"
+sort: by_weight
+...
+C₂H₅OH	yi chun	60000
+F₂	fu qi	60000
+HCHO	jia quan	60000
+H₃PO₄	lin suan	60000
+N₂	dan qi	60000
+kg	qian ke	60000
+mL	hao sheng	60000
+mg	hao ke	60000
+m²	ping fang mi	60000
+m³	li fang mi	60000
+nm	na mi	60000
+²	ping fang	60000
+∞	wu qiong	60000
+∫	ji fen	60000
+℃	she shi du	56952
+CH₃CHO	yi quan	56486
+→	jian tou	52828
+O₂	yang qi	52545
+s⁻¹	mei miao	51760
+O₃	chou yang	51173
+C₂H₆	yi wan	51025
+min⁻¹	mei fen zhong	49328
+CH₃COCH₃	bing tong	46808
+≠	bu deng yu	43180
+ΔS	shang bian	39766
+NH₃	an qi	39425
+CO₂	er yang hua tan	38765
+HCl	yan suan	35080
+μm	wei mi	33572
+kW·h	qian wa shi	33400
+⇌	ke ni	33305
+mol	mo er	32748
+CO(NH₂)₂	niao su	31497
+CH₃OH	jia chun	29757
+C₆H₁₂O₆	pu tao tang	29165
+H₂SO₄	liu suan	28472
+C₂H₅OC₂H₅	yi mi	26594
+SO₂	er yang hua liu	25332
+≡	san jian	24507
+C₂H₄	yi xi	24461
+Al₂O₃	yang hua lv	20712
+³	li fang	20500
+CH₃COOH	cu suan	19760
+°	du shu	19444
+H₂CO₃	tan suan	19415
+C₆H₅OH	ben fen	18086
+F⁻	fu li zi	18065
+μg	wei ke	16896
+α	a er fa	16872
+Ω	ou mu	16760
+kJ	qian jiao	16716
+AlCl₃	lv hua lv	14768
+CH₃COOH	yi suan	13917
+±	zheng fu	13716
+C₇H₈	jia ben	13592
+CH₄	jia wan	13237
+HNO₃	xiao suan	13170
+CaCO₃	tan suan gai	13141
+∑	qiu he	13052
+C₁₂H₂₂O₁₁	zhe tang	12730
+H₂	qing qi	12365
+CO	yi yang hua tan	12152
+‰	qian fen zhi	10020
+≥	da yu deng yu	9460
+cm²	ping fang li mi	9288
+≤	xiao yu deng yu	9224
+Hz	he zi	9132
+CN⁻	qing gen	9128
+γ	ga ma	8590
+HCOOH	jia suan	8007
+∂	pian dao	7980
+NaCl	lv hua na	7930
+H₂C₂O₄	cao suan	7285
+KMnO₄	gao meng suan jia	7012
+cm⁻¹	bo shu	6776
+NaOH	qing yang hua na	6697
+Ag⁺	yin li zi	6566
+Cl₂	lv qi	6517
+C₃H₈	bing wan	6417
+KCl	lv hua jia	6407
+C₂H₂	yi que	6090
+SiO₂	er yang hua gui	6062
+KAl(SO₄)₂·12H₂O	ming fan	5969
+C₃H₆	bing xi	5738
+H₂S	liu hua qing	5612
+H₃BO₃	peng suan	5345
+NH₃·H₂O	an shui	5335
+β	bei ta	5332
+ZnO	yang hua xin	5282
+H₂SiO₃	gui suan	5187
+℃	du xi	5148
+mmHg	hao mi gong zhu	5012
+He	hai qi	4999
+CuSO₄	liu suan tong	4947
+H₂O₂	shuang yang shui	4755
+NaHCO₃	tan suan qing na	4720
+atm	da qi ya	4612
+Ca²⁺	gai li zi	4505
+≈	yue deng yu	4312
+MHz	zhao he	4288
+MgO	yang hua mei	4088
+ΔH	han bian	4000
+TiO₂	er yang hua tai	3920
+∞	wu qiong da	3912
+π	yuan zhou lv	3904
+cm³	li fang li mi	3736
+NH₄NO₃	xiao suan an	3728
+κ	ka pa	3460
+Fe₂O₃	yang hua tie	3457
+H₂O₂	guo yang hua qing	3352
+CHCl₃	lv fang	3345
+NH₄Cl	lv hua an	3305
+μL	wei sheng	3288
+FeSO₄	liu suan ya tie	3095
+Na₂CO₃	tan suan na	3022
+Ea	huo hua neng fu hao	3000
+E°	biao zhun dian ji dian shi fu hao	3000
+J/(mol·K)	jiao mei mo er kai	3000
+Ka	suan jie li chang shu	3000
+Kb	jian jie li chang shu	3000
+Ksp	rong du ji chang shu fu hao	3000
+Kw	shui de li zi ji chang shu	3000
+L/mol	sheng mei mo er	3000
+NA	a fu ga de luo chang shu fu hao	3000
+cm⁻¹	mei li mi	3000
+g/cm³	ke mei li fang li mi	3000
+g/mL	ke mei hao sheng	3000
+g/mol	ke mei mo er	3000
+hν	guang zhao fu hao	3000
+kJ/mol	qian jiao mei mo er	3000
+kg/m³	qian ke mei li fang mi	3000
+mol/(L·s)	mo er mei sheng miao	3000
+pKa	suan du xi shu fu hao	3000
+ppb	shi yi fen zhi yi	3000
+°	jiao du fu hao	3000
+·	jian ge dian	3000
+·	jie jing shui dian	3000
+Γ	da xie ga ma	3000
+ΔG	ji bu si zi you neng bian	3000
+ΔG	zi you neng bian	3000
+ΔU	nei neng bian	3000
+Σ	da xie xi ge ma	3000
+Ω	da xie ou mi ga	3000
+δ	xiao xie de er ta	3000
+δ⁺	bu fen zheng dian he	3000
+δ⁻	bu fen fu dian he	3000
+λmax	zui da xi shou bo chang	3000
+μ	wei fu hao	3000
+μ	xi la mou	3000
+ν	xi la niu	3000
+ρ	xi la rou	3000
+τ	xi la tao	3000
+φ	xi la fei	3000
+χ	xi la ka	3000
+ω	ou mi ga	3000
+‡	guo du tai fu hao	3000
+•	zi you ji dian	3000
+⁺	shang biao zheng	3000
+⁻	shang biao fu	3000
+⁻¹	fu yi ci fang	3000
+ℏ	yue hua pu lang ke chang shu	3000
+↑	qi ti fu hao	3000
+→	sheng cheng fu hao	3000
+↓	chen dian fu hao	3000
+↔	gong zhen jian tou	3000
+↔	shuang xiang jian tou	3000
+⇄	shuang jian tou	3000
+⇌	ke ni fu hao	3000
+⇌	ke ni hao	3000
+⇌	ping heng fu hao	3000
+∂	pian dao shu	3000
+∇	ti du fu hao	3000
+∑	qiu he fu hao	3000
+∫	ji fen hao	3000
+≪	yuan xiao yu	3000
+⊕	zheng dian he fu hao	3000
+⊖	fu dian he fu hao	3000
+─	dan jian fu hao	3000
+═	shuang jian fu hao	3000
+△	jia re fu hao	3000
+△	san jiao fu hao	3000
+⟶	zhang jian tou	3000
+J·mol⁻¹·K⁻¹	jiao mei mo er kai	2999
+g·mol⁻¹	ke mei mo er	2999
+kJ·mol⁻¹	qian jiao mei mo er	2999
+mol·L⁻¹·s⁻¹	mo er mei sheng miao	2999
+Al(OH)₃	qing yang hua lv	2995
+HNO₂	ya xiao suan	2680
+MPa	zhao pa	2666
+kPa	qian pa	2666
+ε	ai pu xi long	2666
+λ	la mu da	2666
+σ	xi ge ma	2666
+←	zuo jian tou	2666
+→	you jian tou	2666
+↓	xia jian tou	2666
+C₄H₁₀	ding wan	2630
+Na₂SO₄	liu suan na	2602
+CCl₄	si lv hua tan	2592
+CaCl₂	lv hua gai	2592
+MgSO₄	liu suan mei	2582
+(NH₄)₂SO₄	liu suan an	2527
+(NH₄)₂CO₃	tan suan an	2500
+AgBr	xiu hua yin	2500
+AgCl	lv hua yin	2500
+AgI	dian hua yin	2500
+AgNO₃	xiao suan yin	2500
+AlO₂⁻	pian lv suan gen	2500
+Al₂(SO₄)₃	liu suan lv	2500
+Ba(OH)₂	qing yang hua bei	2500
+BaCO₃	tan suan bei	2500
+BaCl₂	lv hua bei	2500
+BaSO₄	liu suan bei	2500
+Ba²⁺	bei li zi	2500
+Br⁻	xiu li zi	2500
+CHCl₃	san lv jia wan	2500
+CH₂Cl₂	er lv jia wan	2500
+CH₃COOC₂H₅	yi suan yi zhi	2500
+CH₃COONa	cu suan na	2500
+CH₃COONa	yi suan na	2500
+CH₃COO⁻	cu suan gen	2500
+CH₃COO⁻	yi suan gen	2500
+CH₃Cl	yi lv jia wan	2500
+CO₃²⁻	tan suan gen	2500
+CO₃²⁻	tan suan gen li zi	2500
+Ca(ClO)₂	ci lv suan gai	2500
+Ca(OH)₂	qing yang hua gai	2500
+CaF₂	fu hua gai	2500
+CaO	yang hua gai	2500
+CaSO₄	liu suan gai	2500
+Ca₃(PO₄)₂	lin suan gai	2500
+ClO⁻	ci lv suan gen	2500
+ClO₃⁻	lv suan gen	2500
+ClO₄⁻	gao lv suan gen	2500
+Cl⁻	lv li zi	2500
+CrO₃	san yang hua ge	2500
+CrO₄²⁻	ge suan gen	2500
+Cr₂O₇²⁻	zhong ge suan gen	2500
+Cu(NO₃)₂	xiao suan tong	2500
+Cu(OH)₂	qing yang hua tong	2500
+CuCl₂	lv hua tong	2500
+CuO	yang hua tong	2500
+CuS	liu hua tong	2500
+CuSO₄·5H₂O	wu shui liu suan tong	2500
+Cu₂O	yang hua ya tong	2500
+C₂O₄²⁻	cao suan gen	2500
+Fe(OH)₂	qing yang hua ya tie	2500
+Fe(OH)₃	qing yang hua tie	2500
+FeCl₂	lv hua ya tie	2500
+FeCl₃	lv hua tie	2500
+FeO	yang hua ya tie	2500
+FeS	liu hua ya tie	2500
+Fe²⁺	ya tie li zi	2500
+Fe³⁺	tie li zi	2500
+Fe₂(SO₄)₃	liu suan tie	2500
+Fe₃O₄	si yang hua san tie	2500
+HBr	qing xiu suan	2500
+HCN	qing qing suan	2500
+HCO₃⁻	tan suan qing gen	2500
+HClO	ci lv suan	2500
+HClO₄	gao lv suan	2500
+HF	qing fu suan	2500
+HI	qing dian suan	2500
+HPO₄²⁻	lin suan qing gen	2500
+HSO₄⁻	liu suan qing gen	2500
+H⁺	qing li zi	2500
+H₂PO₄⁻	lin suan er qing gen	2500
+H₂S	qing liu suan	2500
+H₂SO₃	ya liu suan	2500
+H₃O⁺	shui he qing li zi	2500
+I₂	dian dan zhi	2500
+KBr	xiu hua jia	2500
+KClO₃	lv suan jia	2500
+KI	dian hua jia	2500
+KNO₃	xiao suan jia	2500
+KOH	qing yang hua jia	2500
+KSCN	liu qing hua jia	2500
+K⁺	jia li zi	2500
+K₂CO₃	tan suan jia	2500
+K₂CrO₄	ge suan jia	2500
+K₂Cr₂O₇	zhong ge suan jia	2500
+K₂MnO₄	meng suan jia	2500
+K₃[Fe(CN)₆]	tie qing hua jia	2500
+K₄[Fe(CN)₆]	ya tie qing hua jia	2500
+LiAlH₄	qing hua lv li	2500
+Mg(OH)₂	qing yang hua mei	2500
+MgCl₂	lv hua mei	2500
+Mg²⁺	mei li zi	2500
+MnO₂	er yang hua meng	2500
+MnO₄⁻	gao meng suan gen	2500
+NH₃·H₂O	yi shui he an	2500
+NH₄HCO₃	tan suan qing an	2500
+NH₄⁺	an gen	2500
+NH₄⁺	an gen li zi	2500
+NO	yi yang hua dan	2500
+NO₂	er yang hua dan	2500
+NO₂⁻	ya xiao suan gen	2500
+NO₃⁻	xiao suan gen	2500
+NO₃⁻	xiao suan gen li zi	2500
+NaAlO₂	pian lv suan na	2500
+NaBH₄	peng qing hua na	2500
+NaClO	ci lv suan na	2500
+NaHSO₄	liu suan qing na	2500
+NaNO₂	ya xiao suan na	2500
+NaNO₃	xiao suan na	2500
+Na⁺	na li zi	2500
+Na₂O	yang hua na	2500
+Na₂O₂	guo yang hua na	2500
+Na₂S	liu hua na	2500
+Na₂SO₃	ya liu suan na	2500
+Na₂SiO₃	gui suan na	2500
+Na₂S₂O₃	liu dai liu suan na	2500
+Na₃PO₄	lin suan na	2500
+N₂O	yi yang hua er dan	2500
+N₂O₄	si yang hua er dan	2500
+N₂O₅	wu yang hua er dan	2500
+OH⁻	qing yang gen	2500
+OH⁻	qing yang gen li zi	2500
+PO₄³⁻	lin suan gen	2500
+P₂O₅	wu yang hua er lin	2500
+SCN⁻	liu qing gen	2500
+SO₃	san yang hua liu	2500
+SO₃²⁻	ya liu suan gen	2500
+SO₄²⁻	liu suan gen	2500
+SO₄²⁻	liu suan gen li zi	2500
+SiO₃²⁻	gui suan gen	2500
+S²⁻	liu li zi	2500
+V₂O₅	wu yang hua er fan	2500
+ZnCl₂	lv hua xin	2500
+ZnSO₄	liu suan xin	2500
+Zn²⁺	xin li zi	2500
+Al³⁺	lv li zi	2293
+Pa	pa si ka	2260
+√	gen hao	2232
+Ar	ya qi	1972
+HCl	lv hua qing	1642
+P₄	bai lin	1442
+·	dian cheng	1412
+pm	pi mi	1384
+℉	hua shi du	1364
+%	bai fen hao	1304
+Δ	de er ta	1084
+∝	zheng bi yu	976
+I⁻	dian li zi	956
+K	kai er wen	836
+NaH	qing hua na	818
+×	cheng hao	804
+HClO₃	lv suan	715
+÷	chu hao	552
+±	zheng fu hao	536
+↑	shang jian tou	516
+dm³	li fang fen mi	500
+ζ	ze ta	444
+η	yi ta	444
+ψ	pu xi	444
+atm	biao zhun da qi ya	440
+≡	heng deng yu	277
+Br₂	ye xiu	163
+‡	shuang jian hao	101
+Cu²⁺	tong li zi	100
+eV	dian zi fu	100
+eV	dian zi fu te	100
+g/L	ke mei sheng	100
+mg/L	hao ke mei sheng	100
+mmol	hao mo er	100
+mmol/L	hao mo er mei sheng	100
+mol/L	mo er mei sheng	100
+ppm	bai wan fen zhi yi	100
+Å	ai mi	100
+Δ	bian hua liang	100
+θ	xi ta	100
+λ	lan mu da	100
+μmol	wei mo er	100
+‰	qian fen hao	100
+≫	yuan da yu	100
+mol·L⁻¹	mo er mei sheng	99

@@ -1,0 +1,46 @@
+# Rime schema
+# encoding: utf-8
+#
+# 学科输入法 · 化学拼音
+#
+# 在雾凇拼音（rime-ice）的基础上叠加化学词库，作为一个独立方案存在：
+#   - 日常用「雾凇拼音」，写化学内容时切到「化学拼音」（Ctrl+` 或 F4 切换）
+#   - 两个方案的用户词库互相独立，化学用词不会干扰日常打字
+#
+# 依赖：必须先安装雾凇拼音 https://github.com/iDvel/rime-ice
+
+__include: rime_ice.schema:/
+
+# 方案信息直接写在顶层：小狼毫的「方案选单设定」等界面只读这里，不解析 __patch
+schema:
+  schema_id: chem_pinyin
+  name: 化学拼音
+  version: "0.1.1"
+  author:
+    - 学科输入法
+  description: |
+    化学学科拼音输入方案，基于雾凇拼音。
+    化学生僻字与术语优先、名称出化学式、常用符号与单位、化学式上下标自动转换。
+  dependencies:
+    - melt_eng        # 英文输入
+    - radical_pinyin  # 部件拆字
+    - rime_ice        # 反查注音用到雾凇词库
+
+__patch:
+  # 主词库换成 chem_pinyin.dict.yaml（= 化学词库 + 雾凇词库）
+  translator/dictionary: chem_pinyin
+  translator/prism: chem_pinyin
+
+  # 化学式转换：H2SO4 → H₂SO₄
+  engine/translators/+:
+    - lua_translator@*chem_formula
+  # 大写字母开头，出现数字、圆括号或正负号后进入化学式模式
+  # （方括号在雾凇里是「以词定字」键，所以不支持直接输入配合物的方括号）
+  recognizer/patterns/chem_formula: '^[A-Z][A-Za-z]*[0-9+\-(][A-Za-z0-9().+\-]*$'
+  # 雾凇的「N+数字」公历转农历会和 N2、N2O4 冲突，这里改成必须输满 8 位日期才触发
+  recognizer/patterns/gregorian_to_lunar: '^N[0-9]{8}$'
+
+  # v 模式符号（沿用雾凇的 v 前缀）：vhx 化学符号、vhxdw 化学单位、vlizi 常见离子
+  punctuator/symbols/vhx: [ ⇌, →, ↑, ↓, △, ℃, ·, ≡, ═, ⟶, ⇄, ↔, ‡, δ⁺, δ⁻, ⊕, ⊖, Δ, °, Å, ‰, hν ]
+  punctuator/symbols/vhxdw: [ mol, mol/L, mol·L⁻¹, g/mol, kJ/mol, kJ·mol⁻¹, J·mol⁻¹·K⁻¹, mL, μL, μm, nm, Å, cm⁻¹, g/cm³, kPa, MPa, atm, eV, ppm, ℃, K ]
+  punctuator/symbols/vlizi: [ H⁺, OH⁻, Na⁺, K⁺, Ca²⁺, Mg²⁺, Al³⁺, Fe²⁺, Fe³⁺, Cu²⁺, Zn²⁺, Ag⁺, Ba²⁺, NH₄⁺, Cl⁻, SO₄²⁻, NO₃⁻, CO₃²⁻, HCO₃⁻, PO₄³⁻, MnO₄⁻, Cr₂O₇²⁻, CH₃COO⁻ ]
